@@ -2,7 +2,7 @@
   "audiovisual_files": {
     "14dd5d01-f5e9-4ccb-ad78-73c3b66ddd28": {
       "label": "7.5_tape01, 7.5_tape02, 7.5_tape03, 7.5_tape04",
-      "is_offline": false,
+      "is_offline": true,
       "duration": 5547
     }
   },
@@ -17,6 +17,6 @@
   ],
   "created_at": "2024-11-04T19:55:14.926Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-11-04T19:55:14.926Z",
+  "updated_at": "2024-11-04T19:56:15.792Z",
   "updated_by": "tanyaclement"
 }
