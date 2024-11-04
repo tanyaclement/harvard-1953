@@ -1,1 +1,180 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"tanyaclement","title":"Harvard 1953 Summer Conference on \"The Contemporary Novel\"","description":"This is a draft project of the August 1953 Harvard Summer School Conference on \"The Contemporary Novel.\" ","language":"en","slug":"harvard-1953","creator":"tanyaclement","authors":"Tanya Clement","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Title","color":"#ADFFD9"},{"category":"Speaker","color":"#ADFEFF"},{"category":"Program","color":"#99E6FF"},{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"tag":"“New Trends in the Contemporary Novel”","category":"Title"},{"tag":"“The Modern Novel”","category":"Title"},{"tag":"Response to Hyman and O'Connor","category":"Title"},{"tag":"W.M. Frohock Lecture","category":"Title"},{"tag":"\"Certain Neglected Aspects of the American Novel\"","category":"Title"},{"tag":"Response to Simenon and Ellison","category":"Title"},{"tag":"\"The Era of the Novel?\"","category":"Title"},{"tag":"Hans Egon Holthusen Lecture","category":"Title"},{"tag":"\"The Editor and The Author\"","category":"Title"},{"tag":"\"Paperback Books and the Writer\"","category":"Title"},{"tag":"William Yandell Elliott","category":"Speaker"},{"tag":"Carvel Collins","category":"Speaker"},{"tag":"Stanley Hyman","category":"Speaker"},{"tag":"Frank O'Connor","category":"Speaker"},{"tag":"Audience","category":"Speaker"},{"tag":"WGBH Radio Announcer","category":"Speaker"},{"tag":"Anthony West","category":"Speaker"},{"tag":"W.M. Frohock","category":"Speaker"},{"tag":"Andrew Lytle","category":"Speaker"},{"tag":"Ralph Ellison","category":"Speaker"},{"tag":"Alan Campbell","category":"Speaker"},{"tag":"Harold Humes","category":"Speaker"},{"tag":"George Simenon","category":"Speaker"},{"tag":"Hans Egon Holthusen","category":"Speaker"},{"tag":"Fletcher","category":"Speaker"},{"tag":"Hilda Livingston","category":"Speaker"},{"tag":"William Sloane","category":"Speaker"},{"tag":"Introductory Remarks","category":"Program"},{"tag":"Lecture","category":"Program"},{"tag":"Panel Discusson","category":"Program"},{"tag":"Response","category":"Program"},{"tag":"Announcement","category":"Program"},{"tag":"Session Discussion","category":"Program"},{"category":"_uncategorized_","tag":"\"The Modern Novel\""}]},"created_at":"2024-10-05T19:02:41.126Z","updated_at":"2024-11-04T20:01:48.422Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "tanyaclement",
+    "title": "Harvard 1953 Summer Conference on \"The Contemporary Novel\"",
+    "description": "This is a draft project of the August 1953 Harvard Summer School Conference on \"The Contemporary Novel.\" ",
+    "language": "en",
+    "slug": "harvard-1953",
+    "creator": "tanyaclement",
+    "authors": "Tanya Clement",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Title",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Speaker",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Program",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "“New Trends in the Contemporary Novel”",
+          "category": "Title"
+        },
+        {
+          "tag": "“The Modern Novel”",
+          "category": "Title"
+        },
+        {
+          "tag": "Response to Hyman and O'Connor",
+          "category": "Title"
+        },
+        {
+          "tag": "W.M. Frohock Lecture",
+          "category": "Title"
+        },
+        {
+          "tag": "\"Certain Neglected Aspects of the American Novel\"",
+          "category": "Title"
+        },
+        {
+          "tag": "Response to Simenon and Ellison",
+          "category": "Title"
+        },
+        {
+          "tag": "\"The Era of the Novel?\"",
+          "category": "Title"
+        },
+        {
+          "tag": "Hans Egon Holthusen Lecture",
+          "category": "Title"
+        },
+        {
+          "tag": "\"The Editor and The Author\"",
+          "category": "Title"
+        },
+        {
+          "tag": "\"Paperback Books and the Writer\"",
+          "category": "Title"
+        },
+        {
+          "tag": "William Yandell Elliott",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Carvel Collins",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Stanley Hyman",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Frank O'Connor",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Audience",
+          "category": "Speaker"
+        },
+        {
+          "tag": "WGBH Radio Announcer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Anthony West",
+          "category": "Speaker"
+        },
+        {
+          "tag": "W.M. Frohock",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Andrew Lytle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ralph Ellison",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Alan Campbell",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Harold Humes",
+          "category": "Speaker"
+        },
+        {
+          "tag": "George Simenon",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Hans Egon Holthusen",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Fletcher",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Hilda Livingston",
+          "category": "Speaker"
+        },
+        {
+          "tag": "William Sloane",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Introductory Remarks",
+          "category": "Program"
+        },
+        {
+          "tag": "Lecture",
+          "category": "Program"
+        },
+        {
+          "tag": "Panel Discusson",
+          "category": "Program"
+        },
+        {
+          "tag": "Response",
+          "category": "Program"
+        },
+        {
+          "tag": "Announcement",
+          "category": "Program"
+        },
+        {
+          "tag": "Session Discussion",
+          "category": "Program"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "\"The Modern Novel\""
+        }
+      ]
+    },
+    "created_at": "2024-10-05T19:02:41.126Z",
+    "updated_at": "2024-11-04T20:01:49.399Z"
+  }
+}
