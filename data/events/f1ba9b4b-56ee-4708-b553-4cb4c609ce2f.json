@@ -1,0 +1,22 @@
+{
+  "audiovisual_files": {
+    "14dd5d01-f5e9-4ccb-ad78-73c3b66ddd28": {
+      "label": "7.5_tape01, 7.5_tape02, 7.5_tape03, 7.5_tape04",
+      "is_offline": false,
+      "duration": 5547
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Harvard Summer School Conference on the Contemporary Novel. August 3–5, 1953. Woodberry Poetry Room, Houghton Library, Harvard University. ",
+  "item_type": "Audio",
+  "label": "August 5, 1953 Afternoon",
+  "description": [
+    {
+      "text": "In the Forum Room on August 5th, the last afternoon of the conference, Hans Egon Holthusen gives a lecture in response to the talks and discussions from the evening before. This program also includes a session discussion."
+    }
+  ],
+  "created_at": "2024-11-04T19:55:14.926Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-11-04T19:55:14.926Z",
+  "updated_by": "tanyaclement"
+}
