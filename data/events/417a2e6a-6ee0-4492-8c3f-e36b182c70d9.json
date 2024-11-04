@@ -2,7 +2,7 @@
   "audiovisual_files": {
     "77c6153f-0462-4b23-8745-d63233f964b9": {
       "label": "10_tape02, 10_tape02",
-      "is_offline": false,
+      "is_offline": true,
       "duration": 4998
     }
   },
@@ -17,6 +17,6 @@
   ],
   "created_at": "2024-11-04T19:55:14.926Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-11-04T19:55:14.926Z",
+  "updated_at": "2024-11-04T19:55:35.854Z",
   "updated_by": "tanyaclement"
 }
