@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "955061a8-101e-49ef-a443-712f450a82e5": {
+      "label": "7.5_tape05,7.5_tape06, 7.5_tape07, 7.5_tape08",
+      "is_offline": false,
+      "duration": 120
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Harvard Summer School Conference on the Contemporary Novel. August 3–5, 1953. Woodberry Poetry Room, Houghton Library, Harvard University. ",
+  "item_type": "Audio",
+  "label": "August 4, 1953 Afternoon",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In the afternoons of the conference, invited participants gather in the Forum Room in Houghton Library at Harvard University where one of the panelists delivers a response to the discussion from the night before followed by a discussion with the other panelists and the audience. On this first afternoon session on August 4th, Carvel Collins introduces the session discussion and W.M. Frohock gives his untitled lecture as a response to the previous evening’s talks. The afternoon's program also includes the conference's first session discussion."
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-04T18:01:22.988Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-12-04T18:01:22.988Z",
+  "updated_by": "tanyaclement"
+}

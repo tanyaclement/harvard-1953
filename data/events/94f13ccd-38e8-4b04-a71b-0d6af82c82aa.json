@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "1237a987-b918-4e53-87bc-fc18327ab1cf": {
+      "label": "10_tape02, 10_tape02",
+      "is_offline": false,
+      "duration": 120
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Harvard Summer School Conference on the Contemporary Novel. August 3–5, 1953. Woodberry Poetry Room, Houghton Library, Harvard University. ",
+  "item_type": "Audio",
+  "label": "August 3, 1953 Evening",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "On the first evening of the conference, held in Sanders Theater in Memorial Hall at Harvard University on August 3, 1953, Professor Carvel Collins is introduced by William Yandell Elliott, Director of the Harvard Summer School. Collins, in turn, welcomes the public audience to the evening’s event as well as the participants to the conference in the coming days. The program for the evening includes Stanley Hyman’s lecture “New Trends in the Contemporary Novel\" and Frank O’Connor’s lecture “The Modern Novel.” Anthony West is invited to respond to Hyman and O’Connor, and his response is followed by the first panel discussion. "
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-04T18:01:22.988Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-12-04T18:01:22.988Z",
+  "updated_by": "tanyaclement"
+}

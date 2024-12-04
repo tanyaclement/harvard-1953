@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "5d28a16f-e062-4db4-8db2-b49e741e7e34": {
+      "label": "10_tape03, 10_tape04, 10_tape05",
+      "is_offline": false,
+      "duration": 1200
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Harvard Summer School Conference on the Contemporary Novel. August 3–5, 1953. Woodberry Poetry Room, Houghton Library, Harvard University. ",
+  "item_type": "Audio",
+  "label": "August 4, 1953 Evening",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "After the afternoon's closed session of talks and discussions, the conference participants gather together on the evening of August 4th in Sanders Theater for the second set of public talks. The program includes opening remarks by Carvel Collins, George Simenon’s lecture “The Era of the Novel?” and Ralph Ellison’s lecture “Certain Neglected Aspects of the American Novel.”  Wilbur M. Frohock responds to Simenon and Ellison. His response is followed by a panel discussion."
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-04T18:01:22.988Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2024-12-04T18:01:22.988Z",
+  "updated_by": "tanyaclement"
+}
