@@ -16,19 +16,13 @@
     "authors": "Tanya Clement, editor",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "absempere",
-        "avatar_url": "https://avatars.githubusercontent.com/u/38816173?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [],
       "tags": []
     },
     "created_at": "2024-11-21T19:32:33.936Z",
-    "updated_at": "2024-12-09T21:49:22.018Z",
+    "updated_at": "2024-12-09T22:00:00.422Z",
     "generate_pages_site": true
   },
   "is_private": false
