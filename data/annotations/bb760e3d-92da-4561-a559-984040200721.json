@@ -1,5 +1,3241 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 18,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I'm very happy that such a nice audience on a nice evening should welcome the beginning of the Conference on the Contemporary Novel. On our Conference on Poetry some years ago, it was said that the conference was a nest of singing birds. On the Conference on Literary Criticism last year, if it were birds, it might have been crows. They live on each other's bones, these critics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "William Yandell Elliott"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introductory Remarks"
+        }
+      ],
+      "uuid": "87742c20-e1a3-48bc-8df7-32aca9f8a342"
+    },
+    {
+      "start_time": 51,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I shan't attempt before the conference to describe the Conference on the Novel because here we have novelists and critics together. That isn't my duty after all. As director of the summer session, it's my privilege to introduce the gentleman who will preside over these meetings and to whom, in large part, the distinguished roster of participants is due. He has persuaded them to come."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "William Yandell Elliott"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introductory Remarks"
+        }
+      ],
+      "uuid": "ca53352c-5845-4c55-99e5-dc4faf74c58d"
+    },
+    {
+      "start_time": 77,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Professor Carvel Collins, a professor of English literature at Massachusetts Institute of Technology. He is one well known to those who follow American literature, alas he has not been able to produce his own particular hero. He is the biographer of Faulkner. I gather that the only way to produce Faulkner is to have his daughter graduate at an exercise and all the colleges in the country are trying to get Ms. Faulkner to come and be a graduate of those colleges. I'm sure that when she gets to a college, there will be no doubt about her graduating from that college."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "William Yandell Elliott"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introductory Remarks"
+        }
+      ],
+      "uuid": "c87254c7-6f8f-48ca-81e7-4a8db42a0278"
+    },
+    {
+      "start_time": 116,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mr. Collins has just come back from a trip trying to persuade Faulkner to violate his sacred principle and come up here. And alas, Penn Warren, who was to have come has just had a child. And being his first, he takes it very seriously and isn't likely to depart."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "William Yandell Elliott"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introductory Remarks"
+        }
+      ],
+      "uuid": "acbd72f4-6814-432c-8523-c7ee4fe34c85"
+    },
+    {
+      "start_time": 137,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mr. Collins is one of these students of American literature who is interested in the roots of things, and particularly in the period just before the Civil War. His book on the American sporting gallery has, I think, given some of the best grassroots history of that period. And if he doesn't start singing \"On the road to California, oh, it's a long and a tedious journey far across the Rocky Mountains,\" he'll be out of character tonight."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "William Yandell Elliott"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introductory Remarks"
+        }
+      ],
+      "uuid": "6b5529de-671d-45c5-850b-251c32fb3fb6"
+    },
+    {
+      "start_time": 169,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " His articles and published portions of his book on Faulkner's fiction show his interest in American folklore. And he will have an ample opportunity, I think, in presiding at these meetings to relate American folklore and the characters of American fiction to some of the most distinguished novelists and critics of our times. It's with great pleasure that I turn the meeting over to Mr. Carvel Collins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "William Yandell Elliott"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introductory Remarks"
+        }
+      ],
+      "uuid": "3a624dd2-a419-4408-aa7f-3f51b60770f0"
+    },
+    {
+      "start_time": 191,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " APPLAUSE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Introductory Remarks"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "45f5c492-8f48-4799-9d18-d83d77091728"
+    },
+    {
+      "start_time": 204,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The plan of these three nights is a fairly simple one. There will be two talks of approximately a half an hour each, each night, followed by a commentator who will discuss the two talks, and we hope further entangle the two speakers and arguments with each other. Then we hope to have sort of rebuttals and general conversation from the group on the stage, followed by questions from the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introductory Remarks"
+        }
+      ],
+      "uuid": "70a91cfc-1988-4c21-9da9-4450150c3f04"
+    },
+    {
+      "start_time": 242,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " This evening, I would like to run through the-- right now, the three evenings, the program. The first speaker this evening will be Mr. Stanley Hyman. The second speaker, Mr. Frank O'Connor. And Mr. Anthony West will comment on their two speeches."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introductory Remarks"
+        }
+      ],
+      "uuid": "60bb5f53-1db1-4c71-90e6-a338b41ea895"
+    },
+    {
+      "start_time": 259,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Tomorrow night, the first speaker will be Mr. Simenon. And the second speaker will be Mr. Ellison. And Professor Frohock will comment on their two papers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introductory Remarks"
+        }
+      ],
+      "uuid": "9f96a2f4-8212-4316-b85a-87427fdc87e8"
+    },
+    {
+      "start_time": 274,
+      "end_time": 274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " On the third evening, we will have two publishers-- one publisher of hardback books, Mr. William Sloane, and another publisher of paperback books, this being one of the issues in literature in our time, Ms. Hilda Livingston. And then the group here, these authors, will have a chance to discuss things with the publisher in a more general way than perhaps they've been accustomed to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introductory Remarks"
+        }
+      ],
+      "uuid": "3d901dce-f337-42bf-b041-08b7f871753e"
+    },
+    {
+      "start_time": 304,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And since presumably these are publishers who are operating off the record and outside the business, I hope that there can be some genuine disagreement, which is, of course, of interest to all of us. The program this evening is to deal with the how and why of the modern novel, and perhaps, the question, more than that of the question of should certain things be going on in the modern novel. From conversation with the two first speakers, I believe that we are in for an evening of the kind of disagreement that, as I said before, is very important and interesting to all of us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introductory Remarks"
+        }
+      ],
+      "uuid": "1668a4e8-4f25-4514-b4ac-3652ec1800ca"
+    },
+    {
+      "start_time": 351,
+      "end_time": 351,
+      "annotation": [
+        {
+          "text": " The first speaker, Mr. Stanley Hyman, is an extremely well-known critic. He is a teacher of literature at Bennington College. His book, "
+        },
+        {
+          "text": "The Armed Vision",
+          "italic": true
+        },
+        {
+          "text": ", is a handbook for all those who want to know in skillful detail what many of the leading critics of our time stand for and what their good and bad points are. And Mr. Hyman's subject this evening is new trends in the contemporary novel."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "aaadcab8-4caf-4e5e-b618-720364b9da85"
+    },
+    {
+      "start_time": 383,
+      "end_time": 383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " APPLAUSE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "c8abb6d2-eddf-4017-b01a-a2d258eda42d"
+    },
+    {
+      "start_time": 393,
+      "end_time": 393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Some trends in the novel, that is. The concept of trends in the novel or trends in any literary form is, of course, artificial, a retrospective abstraction. But it is sometimes a convenience. No writer writes anything as part of a trend, but that annoyingly articulate reader we call the critic sometimes follows after the writer at a safe distance, picking up work already done and trending it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "c943c3a0-5fd9-4e3d-a076-637a2c6f49f6"
+    },
+    {
+      "start_time": 421,
+      "end_time": 421,
+      "annotation": [
+        {
+          "text": " Never very rewarding at any time, this park custodian activity would seem particularly luckless at present when the novel appears to be in a curious period of stagnation with all the old trends largely played out and no new developments yet very tangible. Naturalism, which has been the main line of our fiction, at least since Dreiser, seems now to consist of no more than Caroline Slade's gentle documentaries on the theme of "
+        },
+        {
+          "text": "'Tis Pity She's a Whore",
+          "italic": true
+        },
+        {
+          "text": " or vast pointless excursions into the slums with such writers as Willard Motley and Leonard Bishop."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "01b87ec3-7000-442d-b6f4-5bca2f146523"
+    },
+    {
+      "start_time": 460,
+      "end_time": 460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " In its more lyrical form, as such a writer as Sherwood Anderson represents it, naturalism can now claim only earnest, decent and essentially talentless writers, like Albert Halper or Alexander Baron in England. That flood of naturalism, so overpowering in the '30s. The left wing or proletarian novel seems to have dried up almost without a trace, leaving only a few stagnant puddles where writers like Howard Fast and Albert Maltz continue to work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "c4aa6cfc-f3d2-4a6e-8e10-b922f3378aa8"
+    },
+    {
+      "start_time": 493,
+      "end_time": 493,
+      "annotation": [
+        {
+          "text": " Naturalism as ironic melodrama as we knew it in such books as James M. Cain's "
+        },
+        {
+          "text": "The Postman Always Rings Twice",
+          "italic": true
+        },
+        {
+          "text": " and Horace McCoy's "
+        },
+        {
+          "text": "They Shoot Horses, Don't They?",
+          "italic": true
+        },
+        {
+          "text": " seems to have persuaded a whole generation of young European writers under Gide's leadership that the American novel is virile and significant. But by the time Europe learned about it, this tradition was already as stone-cold dead as the marathon dancing and flagpole sitting it celebrated and so much resembled."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "4e38bbfc-d164-4941-8fa9-c33bb5fcc76b"
+    },
+    {
+      "start_time": 531,
+      "end_time": 531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Three somewhat unattractive trends in the novel seem clearly visible at present, although perhaps they have always been clearly visible and represent no more than the statistical tendency of most novels at any given time to be rather bad ones. In any case, they are undeniable trends. And before peering about under rocks for more hopeful signs, we might pause to note them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "c3c4340c-0ef6-4f7a-b61b-1eaa1aabce68"
+    },
+    {
+      "start_time": 558,
+      "end_time": 558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The first is a tendency of our established and most famous writers to parody their own earlier work or rewrite it downward. We might regard this as the Louis Napoleon principle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "09239384-092f-4b17-88a7-fffef6cf1167"
+    },
+    {
+      "start_time": 571,
+      "end_time": 571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "69b41f75-0d47-4482-aa02-92f47d39f90b"
+    },
+    {
+      "start_time": 573,
+      "end_time": 573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Following Marx's engaging suggestion made when he was a political journalist and before he took his own historical laws quite so seriously that every historical event is shortly afterwards followed by its parody, inducing Louis Napoleon's revolution a generation after Bonaparte's as his typical example. Our leading novelists seem to be devoting themselves to the demonstration of this principle with a unanimity that is one of the most depressing features of the current stagnation in our fiction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "62e94343-6352-48c4-abfa-3e19a62a6c76"
+    },
+    {
+      "start_time": 606,
+      "end_time": 606,
+      "annotation": [
+        {
+          "text": " Thus, Hemingway rescues himself from the critical obituaries that followed across the river and into the trees by writing a compact and moving work, "
+        },
+        {
+          "text": "The Old Man and The Sea",
+          "italic": true
+        },
+        {
+          "text": ", that turns out on examination to be his fine short story, \"The Undefeated,\" done over again with less power. Where the aging bullfighter was heroic in failure and tragic in stature by his stubborn refusal to admit defeat and incompetence, the aged fisherman is sentimentalized to be somehow victorious in principal. His fish skeleton, a more worthwhile capture than any amount of merchandise for the market by means of the author's change of the rules in the course of the game. Where the form of the undefeated was heroic tragedy, the form of "
+        },
+        {
+          "text": "The Old Man and The Sea",
+          "italic": true
+        },
+        {
+          "text": " might be called Christian comedy, in which faith and grace automatically redeem from worldly failure."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "f5628b2a-6805-422e-b85d-f43b38469bc4"
+    },
+    {
+      "start_time": 667,
+      "end_time": 667,
+      "annotation": [
+        {
+          "text": " Faulkner has similarly in a recent book, "
+        },
+        {
+          "text": "Requiem for a Nun",
+          "italic": true
+        },
+        {
+          "text": ", rewritten an earlier work, "
+        },
+        {
+          "text": "Sanctuary",
+          "italic": true
+        },
+        {
+          "text": ", to give its protagonist-- one can hardly say heroine-- some of the doom-ridden grandeur of the Sartorises, where "
+        },
+        {
+          "text": "Sanctuary",
+          "italic": true
+        },
+        {
+          "text": " had a symbolic rightness in the temple's innocent natural evil allowed her to pass unscathed through the wildest Jacobian melodrama and artificial evil, more sinning than sinned against. The Athenian framework of retribution and redemption, temple is made to bear in "
+        },
+        {
+          "text": "Requiem for a Nun",
+          "italic": true
+        },
+        {
+          "text": " serves only to take her out of her corncob sanctuary into a dimension where she and the characters around her simply become ridiculous."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "a6d19ac4-497b-4d10-ab62-989821760983"
+    },
+    {
+      "start_time": 716,
+      "end_time": 716,
+      "annotation": [
+        {
+          "text": " In the same fashion, Steinbeck's carefree fantasy world of Tortilla Flat has become the self-conscious moral slum of Cannery Row. And O'Hara has rewritten "
+        },
+        {
+          "text": "Appointment in Samarra",
+          "italic": true
+        },
+        {
+          "text": " with a female hero as a rage to live, demonstrating that where Julian English's speedy doom could achieve a kind of meteoric brilliance prolonged over Grace Caldwell Tate's long lifetime, it possesses only a seeping dullness."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "b2df64eb-ff68-4570-9430-0d4af648fb64"
+    },
+    {
+      "start_time": 748,
+      "end_time": 748,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " When we add to these the law of entropy in Farrell's trilogies and tetrologies slowly running down, each with measurably less life in it than the last, and Dos Passos' recent trilogy that reads like some cruel satire on USA, we have not much left to boast of in the recent work of our important novelists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "e6326191-8bf1-4857-a15f-6bd1e99b85f7"
+    },
+    {
+      "start_time": 772,
+      "end_time": 772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " A second trend might be called the disguises of love, taking its title from Robie Macauley's recent novel. One of the oddest of these disguises is the writing of stories about homosexual love in the imagery of heterosexual love. I have elsewhere discussed this Albertine strategy for Proust's Albert made Albertine is surely the godfather of all such operations. And here would only note the nature of the strategy and a few examples."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "52d520c9-97cb-4fba-91bd-2829c4ffbb41"
+    },
+    {
+      "start_time": 803,
+      "end_time": 803,
+      "annotation": [
+        {
+          "text": " At its simplest, it is simply metamorphosizing a boy with whom the male protagonist is involved into a girl. As in Corvo's "
+        },
+        {
+          "text": "The Desire and Pursuit of the Whole",
+          "italic": true
+        },
+        {
+          "text": " with its boyish girl gondolier, Zildo. Or the mannish Mexican girl, Amada, who moves in with the writer in Tennessee Williams' short story, \"Rubio y Morena.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "f0579956-ad43-4592-a590-2cebfd63d4ad"
+    },
+    {
+      "start_time": 826,
+      "end_time": 826,
+      "annotation": [
+        {
+          "text": " We see its more complicated form in Robin Maugham's novelette, "
+        },
+        {
+          "text": "The Servant",
+          "italic": true
+        },
+        {
+          "text": ", where a wicked man servant corrupts a weak-willed young English gentleman by means of a preposterous, adolescent nymphomaniac, he sneaks into the house eventually estranging him from his noble fiancée. And on examination, both girls turn out to be only symbolic vehicles for homosexual love of the young gent. The nymphomaniac for the servant's nasty love and the fiancé for the male narrator's pure love leaving our original polygon a rather odd triangle."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "b12477c8-628b-4f85-9196-8e7043fedd39"
+    },
+    {
+      "start_time": 868,
+      "end_time": 868,
+      "annotation": [
+        {
+          "text": " I would submit that this Albertine strategy underlies such fiction as Paul Bowles, Frederick Buechner, and Williams' own more complicated "
+        },
+        {
+          "text": "The Roman Spring of Mrs. Stone",
+          "italic": true
+        },
+        {
+          "text": ", underlies such plays as a "
+        },
+        {
+          "text": "Streetcar Named Desire",
+          "italic": true
+        },
+        {
+          "text": " and all derivatives like William Inge's "
+        },
+        {
+          "text": "Picnic",
+          "italic": true
+        },
+        {
+          "text": ", where a Kowalski-like natural male animal breaks through the defenses of a conventional seeming young woman, and underlies such films as, "
+        },
+        {
+          "text": "All About Eve",
+          "italic": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "3e543bc3-20b8-4637-acad-ad015fa6fcd4"
+    },
+    {
+      "start_time": 899,
+      "end_time": 899,
+      "annotation": [
+        {
+          "text": " Robie Macaulay's "
+        },
+        {
+          "text": "The Disguises of Love",
+          "italic": true
+        },
+        {
+          "text": ", on its appearance was reviewed in "
+        },
+        {
+          "text": "The New Yorker",
+          "italic": true
+        },
+        {
+          "text": " by our perceptive commentator for this evening, Mr. Anthony West, with considerable attention to the fact that in it, the usual relations between the sexes in our culture seem to be curiously reversed. Mr. West noted that, in essence, the frail pushover of a hero, Professor Graeme was villainously seduced and his life ruined by a heartless young female student, Frances, who determined to have her will of him to the extent of reserving a double room with bath for their first date."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "4739afbb-ec0c-4a8b-b6f8-9edd77cc8227"
+    },
+    {
+      "start_time": 940,
+      "end_time": 940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I would argue that all the book's absurdity disappears when it is regarded as a sophisticated example of the Albertine strategy, with Francis simply a male student named Francis, with an I, and enough clues in the book's title, constant preoccupation with the theme of gender reversal, and imagery to suggest that here, we may have the strategy's conscious parody-- that Macaulay may have not only anticipated our investigations, but even assisted them by pointing up the evidence. Other current varieties of love's disguises can be dealt with in a more perfunctory fashion. One of the most widespread is a kind of infantile regression, where happiness is equated with a pre-sexual or pre-genital attachment to an older woman or women."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "0b31c901-f161-49d1-91f7-1bbc5ae24dbf"
+    },
+    {
+      "start_time": 992,
+      "end_time": 992,
+      "annotation": [
+        {
+          "text": " Perhaps the best example of this is the fiction of Truman Capote, particularly "
+        },
+        {
+          "text": "The Grass HarpThe Member of the Wedding",
+          "italic": true
+        },
+        {
+          "text": " is a similar exercise in regression. It is worth noting parenthetically how readily these infantile fantasies seem to adapt for the stage, as is the entire literary output of William Saroyan."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "ed12ceca-d0f5-465a-81fa-4a591fc63f9f"
+    },
+    {
+      "start_time": 1033,
+      "end_time": 1033,
+      "annotation": [
+        {
+          "text": " The child-centered world of JD Salinger's fiction, where ambiguous attachments to girl children are the constant refuge from a distressing adult life, shows a similar tendency. But Salinger seems to me a writer of far too much talent and seriousness to remain permanently fixed on this level. With other variants of the sexual impulse, the sadistic nastiness in Steinbeck's "
+        },
+        {
+          "text": "East of Eden",
+          "italic": true
+        },
+        {
+          "text": ", the novels of Edgar Mittelholzer, or recent Erskine Caldwell, the kiss-and-tell tradition as it diminishes in interest from Henry Miller to Maud Hutchins, we need have no particular concern."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "7b6b23f1-e214-4505-9028-5e80a5f999a5"
+    },
+    {
+      "start_time": 1077,
+      "end_time": 1077,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " A third and most widespread trend consists of those books that appear to be novels and are not. They might be called \"pseudo-fictions\" on the analogy of I. A. Richards' pseudo questions and pseudo statements, which would not only name them accurately-- they are false fictions, rather than non-fictions-- but might lend our activities some of the optimistic \"semantics will save us\" tone of a quarter of a century ago, as though all these complicated matters could readily be put in order. We must insist not on a definition, but on certain minimal requirements-- that fiction is an exercise of the moral imagination, that it organizes experience into a form with a beginning, middle, and end, and that it's centered around a dramatic action."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "a9fdf979-4a77-46e4-a2e6-b3fedaa2c3a2"
+    },
+    {
+      "start_time": 1131,
+      "end_time": 1131,
+      "annotation": [
+        {
+          "text": " A pseudo fiction may be quite a good work of its sort, although most of them are not. What must be recognized is that its sort is not the form we have traditionally called the novel. The appreciation the pseudo fiction aims at is, \"yes, that is just what it must be like.\" The inescapable sense any work of the fictive imagination from "
+        },
+        {
+          "text": "Don Quixote",
+          "italic": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "The Weavers Grave",
+          "italic": true
+        },
+        {
+          "text": " gives is, life is surely nothing like this anywhere. This is art."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "0f438217-3392-4de3-86b4-48e5e2384be8"
+    },
+    {
+      "start_time": 1164,
+      "end_time": 1164,
+      "annotation": [
+        {
+          "text": " We can readily see what pseudo fictions are by contrasting the moving and effective reporting of John Hersey's "
+        },
+        {
+          "text": "Hiroshima",
+          "italic": true
+        },
+        {
+          "text": " with the pretentious disguised reporting of the same writer's "
+        },
+        {
+          "text": "The Wall",
+          "italic": true
+        },
+        {
+          "text": ", or even more clearly by contrasting Budd Schulberg's pseudo fiction about F. Scott Fitzgerald, "
+        },
+        {
+          "text": "The Disenchanted",
+          "italic": true
+        },
+        {
+          "text": ", in one direction with Arthur Mizener's brilliant biography of Fitzgerald, "
+        },
+        {
+          "text": "The Far Side of Paradise",
+          "italic": true
+        },
+        {
+          "text": ", in the other direction with Fitzgerald's own truly effective rendering of the same pathetic story, "
+        },
+        {
+          "text": "Tender As The Night",
+          "italic": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "c3cc6f9e-30bf-416f-8bf6-c233028517e5"
+    },
+    {
+      "start_time": 1199,
+      "end_time": 1199,
+      "annotation": [
+        {
+          "text": " In recent years, we have had the political or current event's pseudo fiction of Lionel Trilling's "
+        },
+        {
+          "text": "The Middle Of The Journey",
+          "italic": true
+        },
+        {
+          "text": ", and Erwin Shaw's "
+        },
+        {
+          "text": "The Troubled Air",
+          "italic": true
+        },
+        {
+          "text": ", the former enormously better than the latter, but absolutely comparable in kind. The pseudo fiction about the war in such wordy bestsellers as "
+        },
+        {
+          "text": "From Here To Eternity",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "The Naked And The Dead",
+          "italic": true
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "The Caine Mutiny",
+          "italic": true
+        },
+        {
+          "text": "-- biographical and autobiographical pseudo fictions by Angus Wilson and Mary McCarthy, and some particularly uninteresting pseudo fictions about a fake new generation, the Beat Generation, by such beat generators as Calder Willingham and Chandler Broussard."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "5cb6d569-f9f3-4b3c-8386-1ecded4dad35"
+    },
+    {
+      "start_time": 1245,
+      "end_time": 1245,
+      "annotation": [
+        {
+          "text": " Particularly ominous are the examples of several English novelists, who seem to fall into pseudo fiction when they are tired, as our own established novelists fall into self-parody. Thus, Arthur Koestler and George Orwell, who created truly imagined political fiction and semi fiction in "
+        },
+        {
+          "text": "Darkness At Noon",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Down and Out in Paris and London",
+          "italic": true
+        },
+        {
+          "text": ", failed to do anything of the sort in the journalism of "
+        },
+        {
+          "text": "Thieves In The Night",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "1984",
+          "italic": true
+        },
+        {
+          "text": ". Aldous Huxley and Evelyn Waugh have continued to grind out works of satiric intent long after the imaginative grasp that made their earlier works novels was exhausted."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "42de5130-ec6e-4f72-abed-8e6a7f4e416a"
+    },
+    {
+      "start_time": 1288,
+      "end_time": 1288,
+      "annotation": [
+        {
+          "text": " Diaries, journals, familiar essays, war experiences, newspaper columns, sociology, religious parables-- everything from an account of making a movie in Africa with John Huston to the inside dope on the Jelke ring is given a thin veneer of fictionalizing these days and published as a novel, while the few works of authentic fiction brought out each year wither on "
+        },
+        {
+          "text": "The New York Times",
+          "italic": true
+        },
+        {
+          "text": " and \"Bear in Mind\" list. Now that the novel no longer sells as it did in comparison with nonfiction, it will be interesting to see whether the next decade reverses the process and gets us our "
+        },
+        {
+          "text": "Moby Dick",
+          "italic": true
+        },
+        {
+          "text": "s as the whales around us."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "39d88bb7-a4b5-40c2-8b51-1eed37b7cba0"
+    },
+    {
+      "start_time": 1339,
+      "end_time": 1339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Before we take a look at some trends in the novel that seem more hopeful, one reservation suggested above needs re-emphasis. Put most simply, it is that bad works can share the preoccupations of good. Insofar as discussion focuses on problems of theme and value, as this one has, it should be obvious that a very poor book can share its theme and values with a masterpiece, without acquiring any of the masterpiece's virtues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "7b170a4c-f046-487e-9ffa-54b5b6529931"
+    },
+    {
+      "start_time": 1369,
+      "end_time": 1369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " These categories of hopeful trends are thus no guarantee of quality. And in fact, each category includes a very mixed bag of works, not at all meant to be exhaustive. A novel can be deliberately produced with every feature of major fiction, and still somehow fail to come alive, which is my impression of the novels of Robert Penn Warren, although I am defensively aware how much my view is a minority one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "9fc0889f-d46b-4b61-b53b-7824eada361c"
+    },
+    {
+      "start_time": 1397,
+      "end_time": 1397,
+      "annotation": [
+        {
+          "text": " With that out of the way, let me say that the most hopeful direction fiction seems to me to be taking at present is toward the conscious use of myth and ritual as an organizing principle. The tendency in literary discussion is to speak of myth alone. But since in actual terms, the two are inseparable, the myth being nothing more or less than the story or spoken correlative of the rite, we would do well to consider them together whenever we can. A work of fiction that emphasizes myth and slights the physical reality of ritual tends to be thin and heady-- in my opinion, the trouble with Mann's Joseph novels-- whereas a work of fiction centered on both, like Mann's shorter "
+        },
+        {
+          "text": "Death in Venice",
+          "italic": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Mario and the Magician",
+          "italic": true
+        },
+        {
+          "text": ", has a depth and resonance that is one of the sure signs of major art.",
+          "italic": true
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "a4ebd0a9-e8f6-4cc1-bae9-e55c9775f224"
+    },
+    {
+      "start_time": 1463,
+      "end_time": 1463,
+      "annotation": [
+        {
+          "text": " A recent work that seems to me resonant in its use of myth and ritual in precisely this fashion is Ralph Ellison's "
+        },
+        {
+          "text": "Invisible Man",
+          "italic": true
+        },
+        {
+          "text": ", organized around a theme that has been basic to American fiction from "
+        },
+        {
+          "text": "Moby Dick",
+          "italic": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "The Great Gatsby",
+          "italic": true
+        },
+        {
+          "text": ", the ancient ritual myth of the quest. Ellison's nameless hero pursues the secret of visibility, his own fully human identity as the knight of romance pursued grail castle, and breaking through the enchanted wood of the \"keep this n--- boy running\" practical joke that is the book's key metaphor, an act as seen in Kenneth Burke's terminology. He achieves at the end, if not the goal of fully conscious humanity, at least a sure footing on the spiral stairway to it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "cf96dbc5-def4-4213-9e15-206008434467"
+    },
+    {
+      "start_time": 1514,
+      "end_time": 1514,
+      "annotation": [
+        {
+          "text": " Another recent work organized on the framework of the quest, "
+        },
+        {
+          "text": "The Palm-Wine Drinkard",
+          "italic": true
+        },
+        {
+          "text": " by a young West African named Amos Tutuola, makes an instructive comparison with "
+        },
+        {
+          "text": "Invisible Man",
+          "italic": true
+        },
+        {
+          "text": ". Tutuola's story, the drunkard's pursuit of his dead palm-wine tapster into the Town of the Deads, is a complicated ritual of the quest without any kind of mythic or intellectual structure to give it focus or coherence. It is without, in short, the tradition of the picaresque novel behind it. And ultimately, the book becomes only a series of fantastic adventures, projecting such attitudes of Tutuola's culture as the weird money economy and the terrified loathing of children, the way a Rorschach test might."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "e34cd534-66e1-40b5-a2ad-d2fbc801e517"
+    },
+    {
+      "start_time": 1565,
+      "end_time": 1565,
+      "annotation": [
+        {
+          "text": " Similarly, we could note the "
+        },
+        {
+          "text": "Huckleberry Finn",
+          "italic": true
+        },
+        {
+          "text": " framework of the rites of passage, the series of ceremonial initiations leading to maturity in Shirley Jackson's Hangs A Man, a book I find it difficult to discuss, or in a more fragmentary form, in Salinger's "
+        },
+        {
+          "text": "The Catcher In The Rye",
+          "italic": true
+        },
+        {
+          "text": ". Salinger's book suffers technically from its reduction to the limited vision and vocabulary of a 16-year-old boy, with the addition of an adult narrator's perspective to the novel. Capable of adding a myth adequate to its rights, it might have been not the engaging tour de force we were given, but the substantial imaginative work for which Salinger so clearly shows the potentiality."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "e3afb164-90ba-420e-97f7-e4bf8b4eb73e"
+    },
+    {
+      "start_time": 1612,
+      "end_time": 1612,
+      "annotation": [
+        {
+          "text": " Even in the historical novel, we have recently had, in Jay Williams unfortunately titled "
+        },
+        {
+          "text": "The Rogue From Padua",
+          "italic": true
+        },
+        {
+          "text": ", the kind of centering of dramatic action in ritual rather than history that we had previously only seen glimpses of in Naomi Mitchison rather stilted "
+        },
+        {
+          "text": "The Corn King and The Spring Queen",
+          "italic": true
+        },
+        {
+          "text": ". Williams' account of the peasant wars in Germany in the agonistic terms of ritual witchcraft can probably do nothing to stem the torrent of historical novels, as many-breasted as the Asiatic Artemis. But it can at least keep alive the tradition of the form's potentiality."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "71e70af3-acd3-4445-a9cd-fb17a02c660b"
+    },
+    {
+      "start_time": 1654,
+      "end_time": 1654,
+      "annotation": [
+        {
+          "text": " The theme of the sacrificial victim or expiratory ritual, embracing such diverse works as Kafka's The Trial, Nathaniel West's "
+        },
+        {
+          "text": "Miss Lonelyhearts",
+          "italic": true
+        },
+        {
+          "text": ", and James Gould Cozzen's "
+        },
+        {
+          "text": "Castaway",
+          "italic": true
+        },
+        {
+          "text": ", takes on a curious postwar topicality in Jocelyn Brooke's recent "
+        },
+        {
+          "text": "The Scapegoat",
+          "italic": true
+        },
+        {
+          "text": ". Where even a work we tend to call nonfiction, like Thoreau's "
+        },
+        {
+          "text": "Walden",
+          "italic": true
+        },
+        {
+          "text": ", centers around a year's cycle of death and rebirth and identifies its form with a quest for a horse, a hound, and a turtle dove, it is not hard to see that these rituals or symbolic actions of initiation, rebirth, and redemption lie very close to the center of aesthetic experience. And their conscious use by the novelist would seem about as artificial as his conscious use of human life for his subject matter."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "f038f049-ca33-4c37-8eeb-b530dcea79b6"
+    },
+    {
+      "start_time": 1709,
+      "end_time": 1709,
+      "annotation": [
+        {
+          "text": " A second hopeful trend in our fiction seems to me something we probably have to call, despite the term's pomposity, pre-existentialism. In his book "
+        },
+        {
+          "text": "Existentialism From Within",
+          "italic": true
+        },
+        {
+          "text": ", E. L. Allen writes, \"Existentialism is an attempt at philosophizing from the standpoint of the actor instead of, as has been customary, from that of the spectator.\" I have to take Dr. Allen's word on that, since I am as innocent of philosophy as Emerson's cutworm. But if we accept the definition, its immediate relevance to a certain kind of novel is obvious."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "c43b31e5-5928-40a4-bdce-f1471ac95ebb"
+    },
+    {
+      "start_time": 1748,
+      "end_time": 1748,
+      "annotation": [
+        {
+          "text": "I would call pre-existentialist that fiction that comes to the view independently as a discovery in the novelist's craft, rather than formally pushing a wheelbarrow full of speculative thought. Richard Wright's "
+        },
+        {
+          "text": "Native Son",
+          "italic": true
+        },
+        {
+          "text": ", and particularly his novelette "
+        },
+        {
+          "text": "The Man Who Lived Underground",
+          "italic": true
+        },
+        {
+          "text": ", seemed to me examples of the first. His recent "
+        },
+        {
+          "text": "The Outsider",
+          "italic": true
+        },
+        {
+          "text": ", deliberately patterned on French existentialist fiction, an example of the second. Kenneth Burke's novel as a series of declamations, "
+        },
+        {
+          "text": "Towards A Better Life",
+          "italic": true
+        },
+        {
+          "text": ", would be almost the proto-existentialist work of fiction in our time, its rhetorical form a brilliant device for the self-exposure of motives."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "3bcfc2b4-0194-484a-95c1-6086662dc7c6"
+    },
+    {
+      "start_time": 1793,
+      "end_time": 1793,
+      "annotation": [
+        {
+          "text": " Novels we had once thought were primarily political, like Malraux's "
+        },
+        {
+          "text": "Man's Fate",
+          "italic": true
+        },
+        {
+          "text": " and Celine's earlier work, now seem obviously pre-existentialist in their reduction of all our large, vacant generalities to the crises of individual human action. As the example of Wright ironically suggests, Negro experience in America would seem to predispose a novelist to this approach more than any length of time spent in Paris. And Mr. Ellison has elsewhere discussed-- and I hope we'll touch on here tomorrow night-- the break in American sensibility typified by Hemingway's dismissal of the freeing of Jim in "
+        },
+        {
+          "text": "Huck Finn",
+          "italic": true
+        },
+        {
+          "text": " as a false note, and the consequent renunciation of a whole depth of insight into the nature of American experience that our 19th century fiction had possessed."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "7270e989-c139-4b21-bd1e-4e1e7dbf9236"
+    },
+    {
+      "start_time": 1851,
+      "end_time": 1851,
+      "annotation": [
+        {
+          "text": " Pre-existentialism may, in fact, be a characteristically Negro-centered note in our fiction. And as we might expect it is a major aspect of Faulkner's work, although I do not find it much in evidence in the work of such white Southern writers as Eudora Welty and Carson McCullers. Several underrated American novelists seem to me characteristically pre-existentialist along these lines, among them William March, John Sanford, and the Robert M. Coates of that fine and almost unknown book, "
+        },
+        {
+          "text": "Yesterday's Burdens",
+          "italic": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "55cfa4ea-f610-4b1f-8f74-414ab6b42816"
+    },
+    {
+      "start_time": 1888,
+      "end_time": 1888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Finally, for our third encouraging trend, there is a miscellaneous body of real fictions distinguishable from pseudo fictions by form, by a core of resolved action, and above all, by the presence of moral imagination. It is a quality we can identify in the brilliant short fictions of Frank O'Connor as unmistakably as in those of Hawthorne. One symptom of genuine fiction is the presence of that faintly disreputable word, \"love,\" undisguised, rather than in the varieties of concealment noted above."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "b37cf6ab-8ea5-440b-8a3e-51f1e302130e"
+    },
+    {
+      "start_time": 1925,
+      "end_time": 1925,
+      "annotation": [
+        {
+          "text": " Virginia Woolf, Elizabeth Bowen, and Joyce Carey have, in their various ways, created traditions for dealing with the reality of human love, Carey a particularly virile and robust one. And in this country, we can note with pride such recent work as Peter Taylor's A Woman Of Means, Jessamyn West's "
+        },
+        {
+          "text": "The Witch Diggers",
+          "italic": true
+        },
+        {
+          "text": ", Brendan Gill's "
+        },
+        {
+          "text": "The Trouble Of One House",
+          "italic": true
+        },
+        {
+          "text": ", and the fine book just published here by a young British writer resident in France, Patrick O'Brian's "
+        },
+        {
+          "text": "The Catalans",
+          "italic": true
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "a8d50977-95e9-4f6d-8b33-96237167cf54"
+    },
+    {
+      "start_time": 1964,
+      "end_time": 1964,
+      "annotation": [
+        {
+          "text": " HJ Kaplan's "
+        },
+        {
+          "text": "The Plenipotentiaries",
+          "italic": true
+        },
+        {
+          "text": " is that amazing conception-- a rewriting of Henry James and a characteristically Jamesian situation in contemporary terms. And Jean Stafford did something similar with the Proustian tradition in Boston Adventure, before going on to create her own specialized fictional structures in "
+        },
+        {
+          "text": "The Mountain Lion",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "The Catherine Wheel",
+          "italic": true
+        },
+        {
+          "text": ". Nelson Algren's "
+        },
+        {
+          "text": "The Man With The Golden Arm",
+          "italic": true
+        },
+        {
+          "text": " is an equally rare bird-- a work in the line of slum naturalism, familiar from Algren's previous books, but this time somehow suffused with poetry and rich with symbolism."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "e5b24939-c65f-4932-b58f-2c394ed0964e"
+    },
+    {
+      "start_time": 2005,
+      "end_time": 2005,
+      "annotation": [
+        {
+          "text": " These true fictions are as unmistakable when they are concerned with sin and the darker places of the human heart, as in the work of Bernanos, Mauriac, and Graham Greene, as when sin has become bad taste and the human heart is no darker than a well-kept front parlor, as in the novels of E. M. Forster, Ivy Compton-Burnett, and Henry Green. I have read only separately published snatches of Saul Bellow's forthcoming "
+        },
+        {
+          "text": "The Adventures of Augie March",
+          "italic": true
+        },
+        {
+          "text": ", but those protean snatches and his two fine earlier novels suggest that it is another book to join the thin ranks of the genuine works of fiction in our time."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "3c14d9d2-4a63-4cc7-99f6-46aaf78f815e"
+    },
+    {
+      "start_time": 2051,
+      "end_time": 2051,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The relationship between the contemporary novel in English-- which seems a more viable unit than the American novel-- and the European is a complicated matter. And perhaps there are more relationships than one. The Italian novel, like the Italian film, has seemed in the last few years to have attained tremendous vitality and power."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "638ec000-9be1-4912-a529-57b82a625d8c"
+    },
+    {
+      "start_time": 2072,
+      "end_time": 2072,
+      "annotation": [
+        {
+          "text": "Recently, we have been able to get a new perspective on it by the publication in America, some decades delayed, of an early novel written under Mussolini by one of the most impressive of the Italian novelists, Alberto Moravia. Published as "
+        },
+        {
+          "text": "The Time Of Indifference",
+          "italic": true
+        },
+        {
+          "text": ", it is a depressing yet oddly moving pain of despair, very unlike Moravia's later work. "
+        },
+        {
+          "text": "The Time Of Indifference",
+          "italic": true
+        },
+        {
+          "text": " opposes the melancholy, almost impotent, nostalgic values of an upper-class Italian family to those of an unattractive go-getter, the lover first of the mother and then of the daughter, while the family's son, who is not Prince Hamlet nor was meant to be, articulates the book's philosophy of indifference and sinks through ineffectual gestures of revenge into total apathy."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "9f8ff010-6d8a-49a3-bef3-c189c3277853"
+    },
+    {
+      "start_time": 2126,
+      "end_time": 2126,
+      "annotation": [
+        {
+          "text": " This opposition between older humane values that can only be celebrated as dying and new efficient values that are accepted as the wave of the future, but portrayed in all their unloveliness, is a thoroughly familiar motif. It is the constant theme of all serious Soviet fiction from the marvelous stories of Isaac Babel in the 1920s, in Red Cavalry and Benya Krik, where the older values are typified by Jewish shtetl culture opposed to the new revolutionary dynamism. Through such works as Olesha's "
+        },
+        {
+          "text": "Envy",
+          "italic": true
+        },
+        {
+          "text": ", where Ivan Babichev and his crazy machine Ophelia, the symbol of all Western humane culture, refuses to be vanquished by his brother Andrei, the forward looking sausage-maker, who is himself a kind of horrible, synthetic sausage, right down to Leonov's ambiguous ",
+          "italic": true
+        },
+        {
+          "text": "Road To The Ocean",
+          "italic": true
+        },
+        {
+          "text": " in the 1940s.",
+          "italic": true
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "7f754997-16fb-4116-ad7d-c492f7d0b616"
+    },
+    {
+      "start_time": 2186,
+      "end_time": 2186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Seeing this drama of the old, quixotic man going down to defeat before the new, efficient man under fascism and communism, we might be tempted to call it the reaction of the novelist to a totalitarian culture. But how can we miss it in Shakespeare, with his wonderful All For Love Anthony's losing to the beardless, new, bureaucratic Octavius's, as his Falstaff is cast off by the young, dynamic Prince Hals? It is, in fact, the protest of the artist against the death and decay of the old values in any society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "e4d8f307-ba24-4f41-8b12-36c95c110f16"
+    },
+    {
+      "start_time": 2225,
+      "end_time": 2225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It was a major Russian preoccupation long before the revolution, and was James Fenimore Cooper's theme sometime before Moravia got around to it. Hemingway's Robert Cone is as much the new man as Andrey Babichev or King Henry V. Sartoris and Snopes are Antony and Octavius for us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "e766beb4-b928-43ac-81ce-823fed54f855"
+    },
+    {
+      "start_time": 2247,
+      "end_time": 2247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Moravia's role in recent Italian fiction suggests that a backward-looking and nostalgic protest is not opposed to a literature of hope and faith so much as it is an essential precursor of it and an ambiguous ingredient within it. If we can thus learn neither hope nor despair from Europe, we can certainly not export any hardboiled ersatz substitutes for either. The cult of Hammett, Cain, and McCoy is absurd in a France already possessed of a Celine who has gone to the end of that line, and a Malraux transmuting contemporary melodrama into authentic tragedy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "60710f9c-df92-4766-a2e6-d2cc7743bab3"
+    },
+    {
+      "start_time": 2292,
+      "end_time": 2292,
+      "annotation": [
+        {
+          "text": " Our problem, in the last analysis, is formal, not thematic. We have had writers like Rex Warner and Ruthven Todd using Kafka's tradition to write political fables, and writers like Isaac Rosenfeld and William Sansom mining it for moral or religious fables. But who have we able to write like Kafka in a concentration of myth and ritual so intense that no single level of interpretation can contain it? And the short work like "
+        },
+        {
+          "text": "The Metamorphosis",
+          "italic": true
+        },
+        {
+          "text": " is simultaneously an allegory of the artist, an appeal against the social order, and an odyssey of the human soul."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "8e523d57-5000-48fc-adda-79f41ce075d0"
+    },
+    {
+      "start_time": 2335,
+      "end_time": 2335,
+      "annotation": [
+        {
+          "text": " Where our fables are thin and our documentations of life are ultimately unsatisfying, the dichotomy suggests that we need a synthesis of the two separated traditions. Dostoevsky, we might note, has all the richness of observed life in Dickens plus an added moral or symbolic dimension. "
+        },
+        {
+          "text": "Moby Dick",
+          "italic": true
+        },
+        {
+          "text": " is another such work, with humane and hopeful values perhaps more congenial to our needs. Ulysses and Finnegans Wake clothe our own paltry experience with all the ancient grandeur of myth and magic."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "aabe5914-3bd2-49b1-ace0-1c9fedf081a2"
+    },
+    {
+      "start_time": 2374,
+      "end_time": 2374,
+      "annotation": [
+        {
+          "text": " Where such a novelist as Cousins can write in "
+        },
+        {
+          "text": "Guard Of Honor",
+          "italic": true
+        },
+        {
+          "text": ", a triumph of realistic observation, and in "
+        },
+        {
+          "text": "Castaway",
+          "italic": true
+        },
+        {
+          "text": " a little masterpiece of symbolic fantasy, we need the union of both-- the work at once large in detail and significance. All our current trends, in the last analysis, come down to this-- the plea for the wedding full of richness and ceremony of Black Iago and delicate Desdemona that John Peale Bishop described so movingly in his poem \"Speaking of Poetry.\" This ritual marriage is the formula for a major art of the novel, as it is the formula for any great art. And we can do no more at present than hope, unworthily, for its consummation in our time."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "8f824470-40d6-4f6d-b119-5cb729f7cacc"
+    },
+    {
+      "start_time": 2426,
+      "end_time": 2426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " APPLAUSE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“New Trends in the Contemporary Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "61d24a65-5442-483d-9dcc-bb932f50042b"
+    },
+    {
+      "start_time": 2451,
+      "end_time": 2451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Thank you, Mr. Hyman. Before announcing the next speaker I have been asked just now to announce that there is an emergency call for Dr. Starr, if he is in the house, please. Our next speaker has published novels, stories, plays, and is well known to you all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "1ec08dd3-eba5-46b6-ab88-158e58ce8daa"
+    },
+    {
+      "start_time": 2474,
+      "end_time": 2474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " He doesn't exactly have a subject this evening. He just has a speech, a talk, which is on the same general subject of the modern novel, and I imagine with a number of disagreements, which Mr. Hyman will get a chance to deal with later. Mr. Frank O'Connor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "1d5db23e-bc1e-4b37-9ea5-85c84dfaab08"
+    },
+    {
+      "start_time": 2492,
+      "end_time": 2492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " APPLAUSE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "c0fde0f6-b2ef-467b-977e-e6b75d7ea279"
+    },
+    {
+      "start_time": 2507,
+      "end_time": 2507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Ladies and gentlemen, Mr. Chairman, I don't know, really, why I am speaking here tonight. The only qualification I can offer you is rather like the qualification of certain students in the East who describe themselves as failed BA. All I can describe myself is as an ex-modern novelist. I gave up the plan a long time ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "b4380179-ae83-4e5c-a325-9ab5783d37f9"
+    },
+    {
+      "start_time": 2544,
+      "end_time": 2544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " In those days, I used to think I'd like to be a modern novelist. And I even plotted a modern novel, an awfully nice modern novel. Instead of the usual things of the ancient classical novel, this modern novel began in the womb. And it described all the doubts and anguish of the embryo before the embryo became an individual."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "8dec07ce-1531-4a68-8f3b-a1d06cd88861"
+    },
+    {
+      "start_time": 2579,
+      "end_time": 2579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And then, I gradually lost courage. By that time, Mr. William Faulkner had anticipated me. He'd written a novel in which the principal character was an idiot-- which was much better."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "8afea435-43a1-4902-a25b-2d890065eff0"
+    },
+    {
+      "start_time": 2601,
+      "end_time": 2601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "bdf65874-e0c3-4d97-841c-fb16c45ffaeb"
+    },
+    {
+      "start_time": 2603,
+      "end_time": 2603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And before that, James Joyce had actually described the world as seen through a woman's character. But the woman's character wasn't enough for him. The woman also represented the physical body of a woman. And when you carried it a little further, she represented the Earth spinning through space."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "1cbbdd9f-db35-4608-8e2f-a24c59742508"
+    },
+    {
+      "start_time": 2629,
+      "end_time": 2629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, at my age, I'm too modest to attempt to compete with these two great examples. And anyway, I don't want to. I haven't the least desire to write about an idiot, but if I ever do write about an idiot, he's going to be a real idiot, and he's not going to be a symbol for a timeless world, or for the instincts, or anything else of the kind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "dbbe0abe-9ab4-49a8-895f-0d366d57c59c"
+    },
+    {
+      "start_time": 2662,
+      "end_time": 2662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And as some of you know, I have a mania for writing about women, but they're always women. They never represent the Earth spinning through space at all. There, you really touch the difference between the novelist, the writer of the 19th century, the old-fashioned writer like myself, and the really up-to-date writer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "5a0f2dc6-426c-4508-8f46-06f7b5aaaf13"
+    },
+    {
+      "start_time": 2691,
+      "end_time": 2691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " There was a famous Russian symbolist poet-- I've forgotten his name now-- but he carried on a long, and very passionate, and very unhappy love affair all through his life with a lake in Finland. And the lake didn't requite his love, a really bad case. And he grew unhappier and unhappier, and wrote more and more poems to the lake. I have no doubt that Finnish lakes are rather like that-- slightly frigid."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "1b237111-5e95-4b06-b886-db563287c924"
+    },
+    {
+      "start_time": 2726,
+      "end_time": 2726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "7d8536f3-f1f0-40bd-a203-483091e86599"
+    },
+    {
+      "start_time": 2728,
+      "end_time": 2728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Now, I don't want to add to the difficulties of the summer school authorities. And I don't want to add any word of bitterness at all to the relations between our powers and Russia. But I still do think that in the matter of lovemaking, you can't beat women."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "f4b777de-b1b5-48f0-b5b4-3efd401df9ee"
+    },
+    {
+      "start_time": 2750,
+      "end_time": 2750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "d4f9ec19-1565-46f8-9828-8ad6b82b3e74"
+    },
+    {
+      "start_time": 2757,
+      "end_time": 2757,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the difficulties I've been faced with tonight in listening to Mr. Hyman's address is that I have been conditioned. For the second time, the summer school authorities have asked me back. And I find that after five or six weeks, what began as a mere assumption, what began as the sort of idea you throw out to a friend, becomes fact."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "75f0d04c-38bc-46fb-abc9-42101122b4c8"
+    },
+    {
+      "start_time": 2790,
+      "end_time": 2790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I suppose it simply is the fact that one can't be almighty God for five days of the week and an ordinary human being for the other two days. But one is frightfully shocked, I notice, after a spell of teaching by error. And I'm afraid instead of the nice, cheerful discussion that I should normally have had with Mr. Hyman, I just feel that Mr Hyman has fallen into error."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "487c8eb9-be23-4ab4-bd52-b2a7b7344fa4"
+    },
+    {
+      "start_time": 2818,
+      "end_time": 2818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "58618e82-69a6-40c8-ba45-6a8e5d5213fd"
+    },
+    {
+      "start_time": 2824,
+      "end_time": 2824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Now, another difficulty about teaching is that one repeats oneself. And I can only apologize to any students of mine who are here tonight, and who hear me saying the same things over and over again. I just can't stop them. Like the old lady who went to confession and confessed the one passionate sin of her youth, I like talking about it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "c763b6e3-414a-45e3-9d85-56b525073387"
+    },
+    {
+      "start_time": 2849,
+      "end_time": 2849,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "8e39a8ae-995e-4f84-b96f-6d80f01ceb05"
+    },
+    {
+      "start_time": 2856,
+      "end_time": 2856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Now, I feel that I've seen two periods of literary taste, and I'm just on the edge of seeing a third. I saw the first by accident because I grew up in an Irish provincial town. And in that Irish provincial town, we didn't have much in the way of modern literature."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "b8f6fe44-b925-4aa9-acf3-547e180aafd0"
+    },
+    {
+      "start_time": 2883,
+      "end_time": 2883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And I've met other Irishmen who have grown up in the same way, and who grew up feeling that the 19th century novel was a contemporary novel. I used to have one old friend who said to another old friend of mine, \"It's no use talking to me about literature. To me, literature means three names, all of them Russian.\" And when I first heard the story, what really interested me was that I didn't laugh for a split second. What really flashed through my mind was, which three?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "9dfcbfa5-532e-4e46-81c2-56db9baf5827"
+    },
+    {
+      "start_time": 2923,
+      "end_time": 2923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "aee561ba-a415-46d6-bce5-ba3a0163b775"
+    },
+    {
+      "start_time": 2927,
+      "end_time": 2927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " So I grew up feeling that the 19th century novel was the novel, and there wasn't any other sort of art possible. And that 19th century novel, I still think, was the greatest art since the Greek theater, the greatest popular art, the only one which compares, for instance, with the Elizabethan theater. It was an art of the whole people, an art in which there was a correspondence between the writer and his audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "1a9224f7-ecb5-42f4-8da4-85ca9df2bc0d"
+    },
+    {
+      "start_time": 2960,
+      "end_time": 2960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Kuprin, the Russian short-story writer, has a wonderful short story, which moved me terribly when I read it first of all, describes an old deacon of the Orthodox Church who was given instructions to prepare to chant in an excommunication service against somebody whose name he's never heard of. And the deacon is a bass. And like all basses, he's just crazy with vanity, and he's delighted with the chance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "834c5ae3-4d94-40ab-945d-b4ad455e90ac"
+    },
+    {
+      "start_time": 2990,
+      "end_time": 2990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And he goes away and he practices the anathema service with great enthusiasm. And then gradually, the name of the man the service is being held against comes into his head. It's Tolstoy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "292f513b-40cf-4e26-b5be-c49164d82f7b"
+    },
+    {
+      "start_time": 3005,
+      "end_time": 3005,
+      "annotation": [
+        {
+          "text": " And he remembers that once upon a time, he read a book by Tolstoy called "
+        },
+        {
+          "text": "The Cossacks",
+          "italic": true
+        },
+        {
+          "text": ". And then scenes from "
+        },
+        {
+          "text": "The Cossacks",
+          "italic": true
+        },
+        {
+          "text": " begin to come back into his head. And finally, at a great moment of the service, when he's got to burst into these colossal curses of the Orthodox and the Catholic Church, he bursts instead into an exultant Mnogaja leta ad multos annos."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "13444063-afbc-4e45-8808-6e8e86806128"
+    },
+    {
+      "start_time": 3033,
+      "end_time": 3033,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And that was a story that was understood by the audience that read it because they felt about Tolstoy exactly as Kuprin felt about him, exactly as the deacon felt about him. Again, a friend of mine in Ireland describes an old woman who he knew who, every night, added to her night prayers a special prayer for Charles Dickens. And it's no use telling me that that's not criticism, but I know perfectly well it's not criticism and I don't give a damn."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "cfce19cd-cd29-4836-a2db-e1e242ed8975"
+    },
+    {
+      "start_time": 3068,
+      "end_time": 3068,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I maintain that that describes the 19th century novel to you. All I will say is that there isn't a parish priest in the world who wouldn't be delighted to join in an excommunication service against any modern novelist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "2018e7d9-b6e1-4d64-80d5-41b3b99bbf1a"
+    },
+    {
+      "start_time": 3081,
+      "end_time": 3081,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "4bed9056-00a4-4735-8c8b-728db2fe0c1e"
+    },
+    {
+      "start_time": 3087,
+      "end_time": 3087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And I doubt very much if there is an old woman in the world who adds a prayer for Mr. Faulkner to her night prayers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "ec087f46-4131-4be3-acb9-41dc8a405f64"
+    },
+    {
+      "start_time": 3094,
+      "end_time": 3094,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "f93e49f3-09ac-48c2-a6c1-c004be096df4"
+    },
+    {
+      "start_time": 3098,
+      "end_time": 3098,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Now, that was the 19th century novel. And there's no question at all about where the 19th century novel came from. The 19th century novel was the great art of the middle classes, who'd been released by the French Revolution from their subjection to the aristocracy, and were at last doing what they'd always wanted to do, what they tried to do in Elizabethan times, what they did in the Elizabethan middle class plays."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "093084c0-2947-444c-a28b-57043fb3b93f"
+    },
+    {
+      "start_time": 3131,
+      "end_time": 3131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And these plays are obscured for us today by the fact that Shakespeare's genius just wiped them out. But there they were, a whole art in themselves. Many of them have disappeared, and it's only from the work of somebody like Professor Sisson that we realize what they were really like-- that they all contained libel actions. In fact, they were all dealing with a man around the corner and with the contemporary scandal because they all became subjects for legal actions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "b7776bf7-4da3-4db3-bcef-28aa5c0c8203"
+    },
+    {
+      "start_time": 3170,
+      "end_time": 3170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And as a result, professor Sisson has been able to resurrect plays which otherwise would have disappeared from the world, have disappeared from the world so far as their texts go. The next time the middle classes really got to work was in the Netherlands. And there, you get a 19th century novel expressed as Dutch painting. And you get all the standards of the middle classes expressed in Dutch painting, with the exception of the moral standards, which the novel adds to middle class art."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "“The Modern Novel”"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lecture"
+        }
+      ],
+      "uuid": "83be63c4-a67a-4182-935e-ab7e11d9933c"
+    }
+  ],
   "event_id": "94f13ccd-38e8-4b04-a71b-0d6af82c82aa",
   "set": "3AugustEve_10_tape01",
   "source_id": "1237a987-b918-4e53-87bc-fc18327ab1cf"
