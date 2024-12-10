@@ -1,9 +1,30 @@
 {
   "audiovisual_files": {
     "955061a8-101e-49ef-a443-712f450a82e5": {
-      "label": "7.5_tape05,7.5_tape06, 7.5_tape07, 7.5_tape08",
+      "label": "7.5_tape05",
       "is_offline": true,
       "duration": 120
+    },
+    "8ee27c76-155e-4171-ae6b-eb56dca87d3f": {
+      "label": "7.5_tape06",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 0,
+      "caption_set": []
+    },
+    "19e996ec-b5a9-4962-82f3-3bcea4b0cd32": {
+      "label": "7.5_tape07",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 0,
+      "caption_set": []
+    },
+    "9f220fc5-3e06-4c01-b1b4-dd244566b441": {
+      "label": "7.5_tape08",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 0,
+      "caption_set": []
     }
   },
   "auto_generate_web_page": true,
@@ -22,6 +43,6 @@
   ],
   "created_at": "2024-12-04T18:01:22.988Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-12-09T21:40:51.023Z",
+  "updated_at": "2024-12-10T14:41:10.412Z",
   "updated_by": "tanyaclement"
 }
