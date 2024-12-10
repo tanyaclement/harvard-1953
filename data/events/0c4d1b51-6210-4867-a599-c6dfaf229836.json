@@ -9,21 +9,21 @@
       "label": "7.5_tape06",
       "is_offline": true,
       "file_url": "",
-      "duration": 0,
+      "duration": 120,
       "caption_set": []
     },
     "19e996ec-b5a9-4962-82f3-3bcea4b0cd32": {
       "label": "7.5_tape07",
       "is_offline": true,
       "file_url": "",
-      "duration": 0,
+      "duration": 120,
       "caption_set": []
     },
     "9f220fc5-3e06-4c01-b1b4-dd244566b441": {
       "label": "7.5_tape08",
       "is_offline": true,
       "file_url": "",
-      "duration": 0,
+      "duration": 1200,
       "caption_set": []
     }
   },
@@ -43,6 +43,6 @@
   ],
   "created_at": "2024-12-04T18:01:22.988Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-12-10T15:07:27.997Z",
+  "updated_at": "2024-12-10T15:19:43.298Z",
   "updated_by": "tanyaclement"
 }
