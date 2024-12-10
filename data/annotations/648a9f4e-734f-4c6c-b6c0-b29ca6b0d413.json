@@ -1,1 +1,457 @@
-{"annotations":[],"set":"4AugustAft_7.5tape08","event_id":"0c4d1b51-6210-4867-a599-c6dfaf229836","source_id":"9f220fc5-3e06-4c01-b1b4-dd244566b441"}
+{
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I don't know if that's answering the question, but then as I said, I'm not quite clear about the significance of the question. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "8699ea62-6e04-4883-ad74-1a8c616b883b"
+    },
+    {
+      "start_time": 8,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, I was thinking particularly of the novel since the war. The novel that you seem to think has become so subjective -- too subjective, too much within --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "e79a8322-07cc-4b8d-b1a8-4e52fb8bd170"
+    },
+    {
+      "start_time": 17,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I wasn't aware that that was what I was saying. I don't feel-- I feel that, on the contrary, the novel since the war-- since the last war in Europe-- has become more and more objective. There is more and more a throwing over of the Joycean, Lawrence Gide, and indeed the Faulkner type of novel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "89698a95-2bc5-43ce-84d4-2889cf82e359"
+    },
+    {
+      "start_time": 41,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " In that book which I was referring to last night, SPEAKING FRENCH, he describes the middle classes of Europe committing suicide. And he describes them in terms of a French bourgeois who comes home at night to his wife and children-- wife and daughters. Ayme thinks all the bad literature of our time derives from the fact that it's all written for women."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "65a297cf-16aa-444d-8543-79e681a74b7d"
+    },
+    {
+      "start_time": 66,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I don't hold with that, but he says the bourgeois comes home to his wife, and his wife says, \"Faulkner SPEAKING FRENCH .\" And the businessman says, \"oui, Faulkner SPEAKING FRENCH .\" But he's never read Faulkner. Or if he tried to read Faulkner he's always stopped in the middle because it was too difficult. And Ayme is arguing that this is intellectual suicide. It is the suicide of the bourgeoisie. And I think Ayme himself, and a number of young writers in England, are trying to get away from that. They're trying to get towards a new objectivity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "42347508-b7fd-469f-a764-b9be9136e025"
+    },
+    {
+      "start_time": 98,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Now that doesn't mean just going back to the 19th century novel. Obviously you can't do that. You can't go back to a form of society which no longer exists. It does mean, as Mr. Lytle said earlier-- the one statement with which I found myself heartily in agreement-- that it's the relationship between the internal man, between the god within you and the reality outside you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "31a9d94e-ed53-404c-9196-6bace135313b"
+    },
+    {
+      "start_time": 128,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "4fe3ab0f-497f-40ef-8193-dbd53ba80146"
+    },
+    {
+      "start_time": 129,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " This is a return to morality INAUDIBLE . Is the writer's obligation to interpret his society with a negative capability, or to repair it that somebody said earlier"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "54cc455d-2ada-4601-a408-241c41440ee2"
+    },
+    {
+      "start_time": 148,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mr. Lytle?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "cf5f71ea-bf0e-4184-833d-2d00920e60ac"
+    },
+    {
+      "start_time": 149,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, I didn't get that. Will you repeat this question? Would you stand please? It's very hard to hear you without standing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "168d61bf-9a3b-495d-ab56-11468841ebce"
+    },
+    {
+      "start_time": 157,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Is the writer's obligation to interpret his society with a negative capability or to repair that society, as someone in here said today?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "9bcedec8-074f-4b09-a63d-72d1298aa4d1"
+    },
+    {
+      "start_time": 168,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, I will-- go ahead Mr. Ellison. Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "1b6e905f-97f1-4168-aaa0-c466220d3655"
+    },
+    {
+      "start_time": 171,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yes. I think that that-- that's the writer's business. And oh, if his business was to write and to describe reality with as much truth and-- god, here I go-- beauty, he's writing works as he's possible to achieve. And he-- if he has any other role to play, it-- it is to reveal the mystery and possibility inherent in given reality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "c896613b-aa41-4230-8cae-b9c97f16de95"
+    },
+    {
+      "start_time": 208,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " But beyond that, you have politicians, experts on social organization and a whole apparatus who function in their own way. But I don't-- for the life of me, I don't see how-- how a writer can do anything more than write. It's a terrifically difficult thing, this business of trying to decide what is real, what is valuable, what is-- is reality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "8e9897ab-c057-4db3-8a6e-2dc331b6f9aa"
+    },
+    {
+      "start_time": 235,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " People who want to-- I mean, you see him again, you-- you-- well this will lead to asking the writer to get out with-- on the picket line. Which is all right with me, but it isn't writing. And I don't think the two functions should be confused. I think that-- that there is enough pain, there's enough psychological misery involved in really grappling with reality in terms of art. And that the sheer job of mastering art, especially in a time like ours when the corpus of the novel and then the technique of the novel, the ideologies of the novel is so bad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "90a97d43-5b11-4a83-a3a7-9366dc627345"
+    },
+    {
+      "start_time": 288,
+      "end_time": 288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I think that the proper thing to do is stop now and bring up these questions again at the meeting tomorrow. Mr. Campbell, are there any announcements that I have forgotten to make at the moment?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "844197c6-45cd-4bea-a410-7ae6acd437c3"
+    },
+    {
+      "start_time": 304,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I don't think so. INAUDIBLE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alan Campbell"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "aef58026-9af4-4fd0-b2c1-292210c7b060"
+    },
+    {
+      "start_time": 308,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, we again want all the speakers to be on the stage at the table if you will. Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alan Campbell"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "9c5aaeaa-5bed-4563-9601-e5fbd62f3475"
+    }
+  ],
+  "set": "4AugustAft_7.5tape08",
+  "event_id": "0c4d1b51-6210-4867-a599-c6dfaf229836",
+  "source_id": "9f220fc5-3e06-4c01-b1b4-dd244566b441"
+}
