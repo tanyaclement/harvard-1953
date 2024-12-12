@@ -151,16 +151,12 @@
         },
         {
           "category": "Title",
-          "tag": "The Modern Novel 2"
-        },
-        {
-          "category": "Title",
           "tag": "The Era of the Novel"
         }
       ]
     },
     "created_at": "2024-11-21T19:32:33.936Z",
-    "updated_at": "2024-12-12T20:46:11.888Z",
+    "updated_at": "2024-12-12T20:49:35.923Z",
     "generate_pages_site": true
   },
   "is_private": false
