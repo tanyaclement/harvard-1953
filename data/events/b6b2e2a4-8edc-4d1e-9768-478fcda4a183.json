@@ -1,9 +1,16 @@
 {
   "audiovisual_files": {
     "d5ea7279-64d9-451b-a1b5-63bac86adf8c": {
-      "label": "10_tape06, 10_tape07",
+      "label": "10_tape06",
       "is_offline": true,
       "duration": 7200
+    },
+    "37211a25-6f40-4e03-8940-16c1475cdb7b": {
+      "label": "10_tape07",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 1200,
+      "caption_set": []
     }
   },
   "auto_generate_web_page": true,
@@ -22,6 +29,6 @@
   ],
   "created_at": "2024-12-04T18:01:22.988Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-12-09T21:41:58.677Z",
+  "updated_at": "2024-12-12T21:19:31.128Z",
   "updated_by": "tanyaclement"
 }
