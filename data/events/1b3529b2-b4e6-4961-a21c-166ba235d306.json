@@ -7,9 +7,9 @@
     },
     "36ba99c2-7caa-4a1e-9364-067cdb6510dc": {
       "label": "10_tape04",
-      "is_offline": true,
-      "file_url": "",
-      "duration": 1200,
+      "is_offline": false,
+      "file_url": "https://ia800304.us.archive.org/3/items/99156329279403941-tape-04-dm-01-01-c-809-d-322-7-bb-8-40-bd-bafd-45-b-1-c-6-e-25-e-8-b/10_tape04.mp3",
+      "duration": 2810,
       "caption_set": []
     },
     "5957f27a-9162-4f10-9003-cc821cb440a3": {
@@ -36,6 +36,6 @@
   ],
   "created_at": "2024-12-04T18:01:22.988Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-12-10T22:52:40.799Z",
+  "updated_at": "2024-12-13T14:39:29.187Z",
   "updated_by": "tanyaclement"
 }
