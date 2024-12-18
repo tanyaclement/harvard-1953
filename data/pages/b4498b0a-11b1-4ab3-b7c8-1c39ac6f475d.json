@@ -125,15 +125,15 @@
                       "text": "Session Discussion"
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
                 {
-                  "type": "paragraph",
-                  "children": [
-                    {
-                      "italic": true,
-                      "text": "Evening"
-                    }
-                  ]
+                  "italic": true,
+                  "text": "Evening"
                 }
               ]
             },
@@ -329,7 +329,7 @@
   "created_at": "2024-11-21T19:32:33.938Z",
   "created_by": "tanyaclement",
   "title": "Harvard 1953 Summer School Conference on \"The Contemporary Novel\"",
-  "updated_at": "2024-12-18T13:15:06.429Z",
+  "updated_at": "2024-12-18T13:18:13.698Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
