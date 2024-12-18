@@ -130,8 +130,8 @@
                   "type": "paragraph",
                   "children": [
                     {
-                      "text": "Evening",
-                      "italic": true
+                      "italic": true,
+                      "text": "Evening"
                     }
                   ]
                 }
@@ -263,14 +263,14 @@
                       "text": "\"The Editor and The Author,\" William Sloane"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                },
                 {
-                  "text": "Panel Discussion"
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Panel Discussion"
+                    }
+                  ]
                 }
               ]
             }
@@ -329,7 +329,7 @@
   "created_at": "2024-11-21T19:32:33.938Z",
   "created_by": "tanyaclement",
   "title": "Harvard 1953 Summer School Conference on \"The Contemporary Novel\"",
-  "updated_at": "2024-12-18T00:08:24.230Z",
+  "updated_at": "2024-12-18T13:15:06.429Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
