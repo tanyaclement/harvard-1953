@@ -29,50 +29,55 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted-list",
               "children": [
                 {
-                  "text": "Introduction to Carvel Collins, William Yandell Elliot"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Introduction to Carvel Collins, William Yandell Elliot"
+                    }
+                  ]
+                },
                 {
-                  "text": "Conference Opening Remarks, Carvel Collins"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Conference Opening Remarks, Carvel Collins"
+                    }
+                  ]
+                },
                 {
-                  "text": "\"New Trends in the Contemporary Novel,\" Stanley Hyman"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "\"New Trends in the Contemporary Novel,\" Stanley Hyman"
+                    }
+                  ]
+                },
                 {
-                  "text": "\"The Modern Novel,\" Part One and Part Two, Frank O'Connor"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "\"The Modern Novel,\" Frank O'Connor"
+                    }
+                  ]
+                },
                 {
-                  "text": "Response to Hyman and O'Connor, Anthony West"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Response to Hyman and O'Connor, Anthony West"
+                    }
+                  ]
+                },
                 {
-                  "text": "Panel Discussion"
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Panel Discussion"
+                    }
+                  ]
                 }
               ]
             },
@@ -95,67 +100,84 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted-list",
               "children": [
                 {
-                  "text": "Session Introduction, Carvel Collins"
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Session Introduction, Carvel Collins"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Lecture, W. M. Frohock"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Session Discussion"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Evening",
+                      "italic": true
+                    }
+                  ]
                 }
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted-list",
               "children": [
                 {
-                  "text": "Lecture, Part One and Part Two, W. M. Frohock"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Opening Remarks, Carvel Collins"
+                    }
+                  ]
+                },
                 {
-                  "text": "Session Discussion Part One, Part Two, and Part Three"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "\"The Era of the Novel?\" George Simenon"
+                    }
+                  ]
+                },
                 {
-                  "text": "Evening",
-                  "italic": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "\""
+                    },
+                    {
+                      "text": "Certain Neglected Aspects of the American Novel",
+                      "link": "https://tanyaclement.github.io/harvard-1953/pages/certain-neglected-aspects-of-the-american-no/"
+                    },
+                    {
+                      "text": ",\" Ralph Ellison"
+                    }
+                  ]
+                },
                 {
-                  "text": "Opening Remarks, Carvel Collins"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "\"The Era of the Novel?,\" Part One and Part Two, George Simenon"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "\"Certain Neglected Aspects of the American Novel,\" Ralph Ellison"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Response to Simenon and Ellison, W.M. Frohock"
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Response to Simenon and Ellison, W.M. Frohock"
+                    }
+                  ]
                 }
               ]
             },
@@ -178,26 +200,31 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted-list",
               "children": [
                 {
-                  "text": "Opening Remarks, Carvel Collins"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Opening Remarks, Carvel Collins"
+                    }
+                  ]
+                },
                 {
-                  "text": "Lecture, Hans Egon Holthusen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Lecture, Hans Egon Holthusen"
+                    }
+                  ]
+                },
                 {
-                  "text": "Session Discussion Part One, Part Two, Part Three, and Part Four."
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Session Discussion"
+                    }
+                  ]
                 }
               ]
             },
@@ -211,26 +238,31 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted-list",
               "children": [
                 {
-                  "text": "Opening Remarks, Carvel Collins"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Opening Remarks, Carvel Collins"
+                    }
+                  ]
+                },
                 {
-                  "text": "\"Paperback Books and the Writer,\" Hilda Livingston"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "\"Paperback Books and the Writer,\" Hilda Livingston"
+                    }
+                  ]
+                },
                 {
-                  "text": "\"The Editor and The Author,\" William Sloane"
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "\"The Editor and The Author,\" William Sloane"
+                    }
+                  ]
                 }
               ]
             },
@@ -297,7 +329,7 @@
   "created_at": "2024-11-21T19:32:33.938Z",
   "created_by": "tanyaclement",
   "title": "Harvard 1953 Summer School Conference on \"The Contemporary Novel\"",
-  "updated_at": "2024-12-17T23:26:01.593Z",
+  "updated_at": "2024-12-18T00:08:24.230Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
