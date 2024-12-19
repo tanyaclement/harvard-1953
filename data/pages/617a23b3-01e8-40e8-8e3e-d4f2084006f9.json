@@ -1,10 +1,34 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "event",
+      "uuid": "b6b2e2a4-8edc-4d1e-9768-478fcda4a183",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2024-12-04T18:01:24.334Z",
   "created_by": "tanyaclement",
   "title": "August 5, 1953 Evening",
   "slug": "august-5-1953-evening",
-  "updated_at": "2024-12-19T02:44:19.089Z",
+  "updated_at": "2024-12-19T03:52:25.080Z",
   "updated_by": "tanyaclement",
   "parent": "ca853dec-be32-43c1-9b9e-cfdc35fff541",
   "autogenerate": {
