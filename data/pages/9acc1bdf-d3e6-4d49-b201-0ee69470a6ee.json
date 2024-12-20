@@ -1,12 +1,55 @@
 {
   "content": [
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "On the first evening of the conference, held in Sanders Theater in Memorial Hall at Harvard University on August 3, 1953, Professor Carvel Collins is introduced by William Yandell Elliott, Director of the Harvard Summer School. Collins, in turn, welcomes the public audience to the evening’s event as well as the participants to the conference in the coming days. The program for the evening includes Stanley Hyman’s lecture “New Trends in the Contemporary Novel\" and Frank O’Connor’s lecture “The Modern Novel.” Anthony West is invited to respond to Hyman and O’Connor, and his response is followed by the first panel discussion."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Use the "
+        },
+        {
+          "text": "Filter",
+          "bold": true
+        },
+        {
+          "text": " to toggle between annotations for "
+        },
+        {
+          "text": "tape01",
+          "italic": true
+        },
+        {
+          "text": " and"
+        },
+        {
+          "text": " tape02",
+          "italic": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "94f13ccd-38e8-4b04-a71b-0d6af82c82aa",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -27,7 +70,7 @@
   "created_by": "tanyaclement",
   "title": "August 3, 1953 Evening",
   "slug": "august-3-1953-evening",
-  "updated_at": "2024-12-20T20:46:03.310Z",
+  "updated_at": "2024-12-20T21:49:31.089Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
