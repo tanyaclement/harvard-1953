@@ -77,10 +77,10 @@
   "created_by": "tanyaclement",
   "title": "August 4, 1953 Evening",
   "slug": "august-4-1953-evening",
-  "updated_at": "2024-12-20T22:39:40.332Z",
+  "updated_at": "2024-12-20T22:50:19.791Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "1b3529b2-b4e6-4961-a21c-166ba235d306"
   }
