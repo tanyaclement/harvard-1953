@@ -1,12 +1,26 @@
 {
   "content": [
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In the afternoons of the conference, invited participants gather in the Forum Room in Houghton Library at Harvard University where one of the panelists delivers a response to the discussion from the night before followed by a discussion with the other panelists and the audience. On this first afternoon session on August 4th, Carvel Collins introduces the session discussion and W.M. Frohock gives his untitled lecture as a response to the previous evening’s talks. The afternoon's program also includes the conference's first session discussion."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "0c4d1b51-6210-4867-a599-c6dfaf229836",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -27,7 +41,7 @@
   "created_by": "tanyaclement",
   "title": "August 4, 1953 Afternoon",
   "slug": "august-4-1953-afternoon",
-  "updated_at": "2024-12-20T20:52:31.846Z",
+  "updated_at": "2024-12-20T21:23:35.168Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
