@@ -12,6 +12,46 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Use the "
+        },
+        {
+          "text": "filter",
+          "bold": true
+        },
+        {
+          "text": " to toggle between annotations for "
+        },
+        {
+          "text": "tape05",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "tape06",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "tape07",
+          "italic": true
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "tape08.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -41,7 +81,7 @@
   "created_by": "tanyaclement",
   "title": "August 4, 1953 Afternoon",
   "slug": "august-4-1953-afternoon",
-  "updated_at": "2024-12-20T21:23:35.168Z",
+  "updated_at": "2024-12-20T21:53:06.833Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
