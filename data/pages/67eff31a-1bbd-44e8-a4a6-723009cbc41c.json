@@ -6,7 +6,6 @@
       "includes": [
         "media",
         "annotations",
-        "label",
         "description"
       ],
       "children": [
@@ -28,7 +27,7 @@
   "created_by": "tanyaclement",
   "title": "August 4, 1953 Afternoon",
   "slug": "august-4-1953-afternoon",
-  "updated_at": "2024-12-19T02:45:38.563Z",
+  "updated_at": "2024-12-20T20:52:31.846Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
