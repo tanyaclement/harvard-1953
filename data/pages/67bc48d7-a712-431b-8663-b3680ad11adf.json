@@ -1,13 +1,62 @@
 {
   "content": [
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "After the afternoon's closed session of talks and discussions, the conference participants gather together on the evening of August 4th in Sanders Theater for the second set of public talks. The program includes opening remarks by Carvel Collins, George Simenon’s lecture “The Era of the Novel?” and Ralph Ellison’s lecture “Certain Neglected Aspects of the American Novel.” Wilbur M. Frohock responds to Simenon and Ellison. His response is followed by a panel discussion."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Use "
+        },
+        {
+          "text": "filter",
+          "bold": true
+        },
+        {
+          "text": " to toggle between annotations for "
+        },
+        {
+          "text": "tape03",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "tape04",
+          "italic": true
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "tape05",
+          "italic": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
-      "uuid": "0c4d1b51-6210-4867-a599-c6dfaf229836",
+      "uuid": "1b3529b2-b4e6-4961-a21c-166ba235d306",
       "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -28,7 +77,7 @@
   "created_by": "tanyaclement",
   "title": "August 4, 1953 Evening",
   "slug": "august-4-1953-evening",
-  "updated_at": "2024-12-19T04:00:56.032Z",
+  "updated_at": "2024-12-20T22:16:19.966Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
