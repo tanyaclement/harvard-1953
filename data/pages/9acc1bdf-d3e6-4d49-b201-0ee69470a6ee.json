@@ -6,7 +6,6 @@
       "includes": [
         "media",
         "annotations",
-        "label",
         "description"
       ],
       "children": [
@@ -28,7 +27,7 @@
   "created_by": "tanyaclement",
   "title": "August 3, 1953 Evening",
   "slug": "august-3-1953-evening",
-  "updated_at": "2024-12-19T02:40:55.192Z",
+  "updated_at": "2024-12-20T20:46:03.310Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
