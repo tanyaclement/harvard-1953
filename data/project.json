@@ -16,7 +16,13 @@
     "authors": "Tanya Clement, editor",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "saracarl",
+        "avatar_url": "https://avatars.githubusercontent.com/u/708566?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -188,7 +194,7 @@
       ]
     },
     "created_at": "2024-11-21T19:32:33.936Z",
-    "updated_at": "2024-12-20T22:50:33.977Z",
+    "updated_at": "2024-12-21T13:23:16.806Z",
     "generate_pages_site": true
   },
   "is_private": false
