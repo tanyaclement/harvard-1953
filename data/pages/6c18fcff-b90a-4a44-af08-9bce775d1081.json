@@ -2,12 +2,12 @@
   "content": [
     {
       "type": "event",
-      "uuid": "0c4d1b51-6210-4867-a599-c6dfaf229836",
+      "uuid": "30f86c81-cb93-436a-9b14-8599257f4308",
       "includes": [
         "media",
         "annotations",
-        "label",
-        "description"
+        "description",
+        "label"
       ],
       "children": [
         {
@@ -28,8 +28,8 @@
   "created_by": "tanyaclement",
   "title": "August 5, 1953 Afternoon",
   "slug": "august-5-1953-afternoon",
-  "updated_at": "2024-12-19T03:34:09.354Z",
-  "updated_by": "tanyaclement",
+  "updated_at": "2024-12-23T18:46:20.088Z",
+  "updated_by": "ajolipa",
   "autogenerate": {
     "enabled": false,
     "type": "event",
