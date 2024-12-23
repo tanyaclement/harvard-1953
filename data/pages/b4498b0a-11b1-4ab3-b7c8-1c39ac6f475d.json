@@ -94,7 +94,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Afternoon",
+                  "text": "Afternoon ",
                   "italic": true
                 }
               ]
@@ -329,8 +329,8 @@
   "created_at": "2024-11-21T19:32:33.938Z",
   "created_by": "tanyaclement",
   "title": "Harvard 1953 Summer School Conference on \"The Contemporary Novel\"",
-  "updated_at": "2024-12-19T23:32:07.174Z",
-  "updated_by": "tanyaclement",
+  "updated_at": "2024-12-23T19:08:09.849Z",
+  "updated_by": "ajolipa",
   "autogenerate": {
     "enabled": false,
     "type": "home"
