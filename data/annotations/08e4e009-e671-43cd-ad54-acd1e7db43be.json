@@ -1,5 +1,2031 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Christian is the same thing as Mr. K, and it's perfectly obvious that The Trial and The Castle are not novels. They are allegories, and you have to read them as allegories. Otherwise you're not reading them at all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "d6d5b5ec-7985-4d8f-9269-4106d4fdde67"
+    },
+    {
+      "start_time": 18,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " There are a number of other things which INAUDIBLE got me excited about. One of these days when somebody talks about the youthfulness of American civilization, I'm going to fling something. I mean, this is really, I think, completely untrue. This country we're in is a very old country with a very old tradition. And anybody who approaches American literature under the assumption that it's naive and unsophisticated ought to turn and read some of the New England writers. And should change, shall I say, from paying too much attention to Mr. T.S. Eliot and read a little Robert Frost to see what a simple American mind is like."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "f032d8a4-69b0-46bd-9c56-14f7f518b96f"
+    },
+    {
+      "start_time": 63,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " APPLAUSE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "47fdce94-3736-4213-8c44-180c88e9ac6a"
+    },
+    {
+      "start_time": 67,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mr. Holthusen, would you speak to Mr. O'Connor's--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "6d842774-0633-4e1b-a34a-9477c1e7acd8"
+    },
+    {
+      "start_time": 72,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I only can say that I agree. I agree with you on the-- all the line, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Hans Egon Holthusen"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "1f895572-2d63-400c-a7da-65b616f0b80c"
+    },
+    {
+      "start_time": 76,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "907c239e-20d8-45a8-8057-6959699845ea"
+    },
+    {
+      "start_time": 78,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah, you are-- you don't forget that I played a dialectical role. And I know that what you mean, and I'm convinced that the position of men is always the crossroads of the immutability and the mutability of men. But in this case, if you had given this lecture-- I had said the same thing as you said, you see. In this case I wanted to stress certain shocks of consciousness which has-- which have occurred between say-- let's say 1900 and today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Hans Egon Holthusen"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "900cf3be-f91c-40a2-858a-36073ef6d65b"
+    },
+    {
+      "start_time": 117,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And I think that there are certain-- certain mutations in consciousness, and that men can be interpreted as a modern man, as a creature which-- which confronts a completely new situation. I am not-- I'm not an existentialist, and in Germany I always fight existentialism, you see. And all that you say is just to write a complement to what I wanted to say. And I'm not quite convinced that the novel is finished. And I am convinced that if there is a genius who-- who comes-- who is given to us, he will write a new novel. And they write novels, you know. There are men-- there are men who write novels. But it is only to make clear one point and from this corner-- this German corner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Hans Egon Holthusen"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "c5fe2e70-a2c9-4ec1-926b-62d9183bf815"
+    },
+    {
+      "start_time": 173,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I don't think, by the way, that Germany is completely ungifted to write novels. I think of INAUDIBLE , for example. INAUDIBLE. And I think of Stifter and Fontane, and perhaps Thomas Mann. But there are--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "9d8dca69-4a35-4d41-8049-23fd301bd2c5"
+    },
+    {
+      "start_time": 191,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "10a57196-1a35-48fc-ace2-dacbb081f77c"
+    },
+    {
+      "start_time": 194,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Hans Egon Holthusen"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "9649bd78-109a-4c6c-b804-0727ae4427d1"
+    },
+    {
+      "start_time": 195,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I'm entirely disarmed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "23d4c3f4-f12c-4283-97d6-33dedf419b14"
+    },
+    {
+      "start_time": 199,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mr. West, do you have any comment on this subject?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "06a21d0a-2cc6-409b-bb6f-a452ba5d95a0"
+    },
+    {
+      "start_time": 207,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I suppose one of the disintegrated factors that blow the novel apart is supposed to be the new consciousness of personality you get from Freud. And it impresses me enormously how much this is not so. I suppose the most naive area of the European cultural zone is Iceland, and the saga of Grettir the Strong is, I suppose, an early modern European piece of literature as there is around. And the opening situation of that is the conflict between Grettir and his father."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Anthony West"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "6e9fc1fb-d91d-44ea-a073-fcda3a250d4d"
+    },
+    {
+      "start_time": 244,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Grettir hates his father very much, and he has good reason to. His father won't give him a sword, and he resents that very bitterly. And his mother provides him-- secretly provides him with the sword. INAUDIBLE makes up the poem. And, after all, the mother is a friend of the man. And this uses an entirely Freudian symbol in an entirely conscious way. It seems to me to show how old that consciousness is of the personality which we treat with such great novelty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Anthony West"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "d20e9033-f049-46fd-90fb-324538550128"
+    },
+    {
+      "start_time": 274,
+      "end_time": 274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And the end of Grettir the Strong is Grettir is killed by the sword which he's lived by. His brother has to avenge him. It's the social countant that demands this. The blood price is that he should kill the man who killed his brother. It's a social situation that pushes him into carrying a burden of guilt. He has to become a murderer. The only way he can fulfill his social destiny is by taking this burden of guilt on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Anthony West"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "0034023a-2163-4997-832e-74ac48826337"
+    },
+    {
+      "start_time": 303,
+      "end_time": 303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Then he is taken up by the community, which is outraged. And the people who condemn him, they say quite simply-- they think they're being very humane and very liberal. We only ask one price for a man's life, and that is a man's life. The INAUDIBLE, who has avenged his brother, is then taken to-- put in a prison and put in a prison cell. And the penalty is not exactly-- it's very violent form. All he has to do is wait till the time he dies. And there is a man there who is in the same position, who is waiting for death too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Anthony West"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "382d8def-ca80-44d0-8161-ea877de4f607"
+    },
+    {
+      "start_time": 348,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Thorstein and the man-- it's a cold and filthy place with no escape from it. And this man is very downcast. Thorstein is a poet, his function is to sing the story of what brought them into the prison cell to make the prison cell tolerable. And to sing until the end comes. It seems exactly the same consciousness of the human destiny which we have now. The inescapable trap, the burden of guilt becomes removed from ourselves. We have to live with it. There is nothing new about this. Why should it disintegrate a very satisfactory and good art form? I cannot see it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Anthony West"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "afd788e6-4574-47dc-bce0-0042c3110f38"
+    },
+    {
+      "start_time": 388,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " APPLAUSE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "a540b7b5-1a7f-4d55-91dc-678eeeaf7e02"
+    },
+    {
+      "start_time": 392,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Any other members of the panel who want to speak to this subject? Mr. Simenon, will you say anything?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "4ca7d663-a2d2-42ef-a2ce-448cdec9753c"
+    },
+    {
+      "start_time": 398,
+      "end_time": 398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " INAUDIBLE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "George Simenon"
+        }
+      ],
+      "uuid": "043027f6-f62d-444c-9f96-a2f937c62ac0"
+    },
+    {
+      "start_time": 400,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mr. Ellison? Mr. Frohock?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "0f9d1fd5-524a-4b1b-8478-af33d41b99c4"
+    },
+    {
+      "start_time": 403,
+      "end_time": 403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " They'll pass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "256c7a56-fb02-4c37-b2b2-072f8ec1e965"
+    },
+    {
+      "start_time": 405,
+      "end_time": 405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mr. Lytle, please."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "90c0f513-4457-4de1-895f-a5a6e490babf"
+    },
+    {
+      "start_time": 407,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Please?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "b17dd3e6-913c-427a-901a-2f564938db28"
+    },
+    {
+      "start_time": 408,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yes. Pretty please."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "eed087e6-81fa-4585-88c6-0d4928054efd"
+    },
+    {
+      "start_time": 412,
+      "end_time": 412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, I have nothing further to say to this subject, but I might if momentarily discuss it if I may, deliberately and consciously so. We haven't necessarily defined our terms. And I'm certainly not going to at this late date set about it, but I would like to make one or two distinctions, and I would like to distinguish between the storytelling habit in me which is continuous and universal, and the story as a novel. And I would like to, in consideration, say these two things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "7071209f-d5b8-4706-a047-485a93079257"
+    },
+    {
+      "start_time": 458,
+      "end_time": 458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " First, it is-- you've got to learn to master a certain kind of technique. And I will specify. And I think we got this deliberately from Flaubert, that he used for the first time the five senses as a medium by which you could enter the human consciousness. It had always been done more or less, but from him we learned to do that consciously. And that's a great gain."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "6e1102c2-e233-43d8-9136-f69043bed50b"
+    },
+    {
+      "start_time": 488,
+      "end_time": 488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I think with-- not the formalist of art but for those who consider form as the final meaning of art, that you have got to have and fix finally somewhere before you get down your point of view, finally, because everything is related through that. And then I'm not going to bore you with various other things, such as the sea and when to use panorama. But I want to say this, that when you start out, if you have beforehand a thorough plotted direction, or rather a blueprint before the thing has begun, that you're going to get the best melodrama."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "bd1a11f7-ed85-499a-b168-7b06ae9c8b65"
+    },
+    {
+      "start_time": 531,
+      "end_time": 531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " That the creative act is a growth and not an organization, because thing that is organized-- you organize something that is already done, as INAUDIBLE. And that finally it is a growth, and that you try to control that growth towards some end. And in that process, you commit your life. That is, that you commit what in you is extremely, to the fullest extent, as James says, if I may be allowed to quote him too, that a man--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "2126019d-8b05-4bf7-bf86-0f645507a993"
+    },
+    {
+      "start_time": 564,
+      "end_time": 564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "c6c12c2e-1dd3-48cc-9e8e-bde7305e0dde"
+    },
+    {
+      "start_time": 566,
+      "end_time": 566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " --that our nation has to undertake the most difficult thing possible to be done. And that's why the artist and the priest and the soldier die every day. It is at full and complete commitment of yourself. And you take the risk of failure, which to a man is the risk of emasculation. And that's what I mean by that total commitment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "b7bba6ac-0f3a-42c8-8ceb-593b02f7357a"
+    },
+    {
+      "start_time": 587,
+      "end_time": 587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And if you don't believe me, what is a hack writer, a shyster lawyer? What is the other one? They are men who don't take themselves seriously. They don't make that full commitment, and therefore they're a comic figure. And of course-- and that is finally a man's definition of his being. With a woman, it's love. That's why INAUDIBLE is the-- describes the fall of the state of woman, is she's so with a man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "c8a83a63-2e25-4233-a1fa-daaca1517662"
+    },
+    {
+      "start_time": 619,
+      "end_time": 619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Now if I might-- I mean, I think that I consider myself an artist, I consider in the end that I think we've talked too much about-- well I don't know. I got the feeling that the people of the moment who are making and losing readers in large numbers-- I think that's a mistake. I think that art is in the end aristocratic. And I don't mean in-- to use that in political terms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "d105bd72-069e-438b-a6f7-98c49663c7e4"
+    },
+    {
+      "start_time": 650,
+      "end_time": 650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And I was thinking that the South perhaps has something to offer in this-- in the heart of this concern. And I was thinking that, as we were saying yesterday, that Sinclair Lewis was boring and died before his time, which must have been a terrifying thing for him. But I was thinking if he had only been born in the South, perhaps he would not look so-- INAUDIBLE  because the South has been defeated. Therefore, the South knows the nature of the world, that in the end it is always defeat because the South has been defeated. Therefore, the South knows the nature of the world, that in the end it is always defeat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "7dbcbcbe-0ae0-4532-9649-41b36ba0863c"
+    },
+    {
+      "start_time": 694,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And what have you got for the artist that can forfend that thing, that thief of work? And it is style. It is mannerisms, which now, as I believe Yeats said again, is in the right of style. And he doesn't have to be manly always in life, but he necessarily does in his work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "e699123a-1877-440a-9efc-cf63e44cfa9a"
+    },
+    {
+      "start_time": 723,
+      "end_time": 723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And I think the South has that firm man's grip. That's the reason you have so many good writers who've been writing for 30 years, but with modest readers-- modest group of readers. It's because they know that thing, that you have got to have something when you have pushed back against the wall to contain the core of your being so that you can come again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "8517f2f6-5b0f-4332-b28f-673616f5c956"
+    },
+    {
+      "start_time": 748,
+      "end_time": 748,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I would furthermore say this, that the Eastern part of the country now is almost entirely metropolitan, and that the word has become shopworn. That the thing makes the word alive is an image, and that you have to live in some country society where the seasons turn and all country people and all seamen speak in terms of images. And that is a thing with the deliberate shaping and twisting and distorting of words to get something fresh, because there's nothing new under the sun. We know that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "275507ce-acef-48fd-ae71-88bfbb413bd9"
+    },
+    {
+      "start_time": 789,
+      "end_time": 789,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " You have the shock in the country, or in a country society, of each day being different from the next. Did you ever hear a farmer who showed any kind of optimism about his crops? No. He doesn't dare, because he'll be tricked by the mysterious powers that rule his field. He's always a pessimist. That means that he also is a religious man, and without some kind of spiritual quality to work-- I mean spiritual quality to an art, it becomes sterile. And it may be very beautiful and glittering, but it has none of that human passion and compassion of which art is made fine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "5c16b48b-0250-4b7d-bb2b-e5abb31d0bd7"
+    },
+    {
+      "start_time": 842,
+      "end_time": 842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Now to give you a case in point, I had a tenant. I ran a cotton farm once in my youth, and it was after the First World War. And we at this time were discussing the war debt, which you would think that that was so complicated that certainly nobody would have trained economists to discuss it. And he said this, and notice everything is an image. He said, \"Great Britain has got two vaults of our gold and sat down on it and said, now come get it if you can.\" But I think that that point is to be made."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "ae4a139d-3c22-419f-82e0-d119535e03a0"
+    },
+    {
+      "start_time": 876,
+      "end_time": 876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And so I'm saying that in a society where you think in images, and art if it's anything it's concretely human. And that's why I take absolutely your position on this allegorical business. It leaves out the circumstantiality and the accident that surrounds life, and you get-- and, of course, in its worst form, it's propaganda. Which leads not to the end of an art, which should be-- any art should be defined in its own terms and have its own experience and not to improve the condition of the middle-Western or the far-Western farmer. That's residual, meaning that it's a political matter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "be435a6d-15d8-4f1f-8a0b-2080b31c723b"
+    },
+    {
+      "start_time": 919,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And so I am pleading for an art that is aristocratic, which I think is its nature. And that it should be approached with great humility, else you'll destroy it. And that it must always be concrete, and that there is a great extension."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "0204c669-5f9b-433c-a67c-1fa2aae9740c"
+    },
+    {
+      "start_time": 946,
+      "end_time": 946,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " INAUDIBLE . Now, of course, that we have inherited from people like Flaubert and James, in spite of the fact you don't like him, has given us a great heel. And I confess that there are moments there when I can't read James. I mean, it's too tenuous. Somebody has got to kiss somebody somewhere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "f23d130f-2701-4d54-8afa-1a65b38362be"
+    },
+    {
+      "start_time": 963,
+      "end_time": 963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "84fdafa3-9590-4e2c-856d-a975dd6d046f"
+    },
+    {
+      "start_time": 970,
+      "end_time": 970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Nevertheless, he has given us a great many technical health. And it takes a long time to master that, and you commit your total and whole being to it, and-- which is the risk of failure. And let me see if I've got anything else to say. Well, I think really that's about all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "e8fd6571-a5ff-45b4-b843-ebe3f0f1e526"
+    },
+    {
+      "start_time": 999,
+      "end_time": 999,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " APPLAUSE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "4e8c95bc-73dc-4df2-9a7f-31bb03ef3fa9"
+    },
+    {
+      "start_time": 1004,
+      "end_time": 1004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mr. Ellison?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "101ae77c-e04a-4f7e-904c-6c29d98a11d7"
+    },
+    {
+      "start_time": 1006,
+      "end_time": 1006,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, I would just-- really in agreement with Mr. Lytle. It's just-- I'd just like to say this. As I am a Southwesterner and-- this is beginning to sound like an old-fashioned parent meeting or something. But just a word about language, imagery, and the present moment. I find that as I go around and listen-- and my life is pretty much divided between the races around New York-- I find that so much imagery, what you would expect would be limited to the South and to farm regions, is very much alive within the metropolitan area. It's full of glitter and it takes on new dimensions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "427c7c20-95da-480e-936f-bf26c6b28ee5"
+    },
+    {
+      "start_time": 1077,
+      "end_time": 1077,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And secondly-- this again ties in I think-- you have in this country such a mixture. Not only of national groupings, racial groupings, dialects, lingoes, terminologies-- technical and scientific-- that we can't help if we are sensitive to it to bring a new life to prose fiction. I think that's one of the things that Faulkner has shown us so much and so well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "352b1557-6625-47bd-85c8-08f791dfde6d"
+    },
+    {
+      "start_time": 1116,
+      "end_time": 1116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Someone asked me the other night why I chose to write in the first person. And they said, well, isn't it because you wanted this to be every man? And I said, yes, but there's a much simpler motive behind it. And that was to be able to move in upon the speech patterns that I find around me. I wanted to exploit the rhetoric, I wanted to exploit the scientific terminology. I wanted to exploit the sermons and-- and the hollers and the slang."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "16378352-9af6-4852-b793-a65339118fc7"
+    },
+    {
+      "start_time": 1152,
+      "end_time": 1152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Because I think that in its-- that finding it in a formal pattern gives the reader pleasure. And it certainly gives me some of the pleasure that Mr. O'Connor has been talking about. After all, and this hasn't been said-- I think he's implied it. That the delight that the-- that you get from trying to write a novel comes from the delight in putting up a good yarn, a good lie. I'm a professional liar, and I can't get away from it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "98438984-a022-4914-9eaa-1b5c8c24a014"
+    },
+    {
+      "start_time": 1183,
+      "end_time": 1183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The other thing is this, just-- which I think ties up with this mixture of regional speech. I had a situation in my novel where I wanted to-- to personalize the chaotic flux. And I wanted to create a character, and I said what shall I call this man? And somehow a bell rang in my head, and I remembered a blues which was sung by Jimmy Rushing. And Jimmy Rushing used to sing this thing, and there was a refrain which went something like this. \"Reinhart, Reinhart. It's so lonesome up here on Beacon Hill.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "5fb85e87-fb52-4bfa-bc45-69b39c7e5cc7"
+    },
+    {
+      "start_time": 1224,
+      "end_time": 1224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "c00985dc-43b7-4833-9c58-c29015ffc974"
+    },
+    {
+      "start_time": 1231,
+      "end_time": 1231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Now I was simply trying to exploit my own folk background. I don't think that this blues was a product of any folk line. I think it was a product of this mixture that we have in the country right now. But I was very surprised and very-- to discover that the gentleman was dead. But recently I picked up a copy of Time magazine and I discovered that there had actually been a Mr. Reinhart, a former student here at Harvard, and that his tradition was built around him. And it was exactly the call to chaos. \"Come out, let's go on a rampage. Let's sail our phonograph records. Let's ride.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "95f52d83-2632-4de4-982c-ac86aea4bc87"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And it's exactly-- it was so fitting. I don't know what-- I don't want to be mystical about it, but I just-- I think that not only does speech and does imagery operate here and there, drifting back and forth through social layers, through region, and so forth, but the tendency of the human mind to adopt and find significance in the same symbols is very-- very much a part of this kind of unity. Flux and flow, this bobbing, weaving. This fluidity of American life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "cd7fd12d-f01d-44e7-9a2a-9f67f77470f8"
+    },
+    {
+      "start_time": 1313,
+      "end_time": 1313,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " APPLAUSE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "b2b34b90-584e-46c1-9b20-68b98d28c72f"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just briefly and parenthetically, Mr. West objected last evening to discussion of the American reality. One of the things being almost touched on today is this question of regionalism, and certainly no one wants the regional novel, but-- of any kind. But in America, this flux and flow is so great that one can try to draw all these languages and dialects and levels together. But it makes for difficulty of communication sometimes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "8b76208c-eaf1-4935-9de2-fc1a9aadb0ef"
+    },
+    {
+      "start_time": 1350,
+      "end_time": 1350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm reminded of a class which read Light in August by Faulkner and rather liked it. But finally, when they were asked-- it was not my class. They were asked what can we-- what bothers you about this, if anything? This was a class in New York City and all of them city students. They said, well, there's only one thing that bothers us. That's on the first page. It's an extremely hot day-- extremely hot day. And this girl, barefooted and very poor, is-- and pregnant is-- and friendless in a way, except that everyone befriends her, is walking along the road in this steaming Mississippi sun and she keeps talking about furs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "24488d26-7ff5-468b-9aeb-332d635b2fc7"
+    },
+    {
+      "start_time": 1394,
+      "end_time": 1394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the teacher didn't understand what this was and looked at the text. And the girl keeps saying as she trudges along through this dust-- she keeps almost morbidly repeating it's a fur piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "08b76ec6-9c01-4f4e-aea5-97a2196b8645"
+    },
+    {
+      "start_time": 1406,
+      "end_time": 1406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " LAUGHTER"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "78ac4169-cd51-4391-a284-0f000de571c4"
+    },
+    {
+      "start_time": 1411,
+      "end_time": 1411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The-- I don't know whether it was just through lapse or through desire to communicate more fully that later-- when she says this later in the novel, she spells it differently. Spells it conventionally. This may be only a problem in connection with literature being aristocratic. Mr. O'Connor, would you speak to Mr. Lytle's point, briefly or at length, that literature should be aristocratic? Because it's not my understanding, it's just my guess, that you don't think it should be or is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "2ceb35b6-2bf2-4080-9e0b-f0854785b6e1"
+    },
+    {
+      "start_time": 1445,
+      "end_time": 1445,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "6f9c3cf5-cb1d-451f-80af-55d36d7fef41"
+    },
+    {
+      "start_time": 1446,
+      "end_time": 1446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Or would you like to define the term?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "2def7d8c-7ea8-4e9f-9de5-5dec74104cd6"
+    },
+    {
+      "start_time": 1451,
+      "end_time": 1451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Very briefly. I don't want to go into this. I very much like when the discussion is thrown open, that we should also take into consideration the German speech yesterday, which for me has been a high point of the conference. He knows that's not mere flattery. And it raised a number of issues which are also being raised, I think, by Mr. Lytle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "d640618a-dc37-49fd-8eaa-077612f175de"
+    },
+    {
+      "start_time": 1477,
+      "end_time": 1477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The question about literature being aristocratic-- at the moment the thing, the issue isn't there, because it seems to me still, referring back to the German speech yesterday, that we don't seem at all to have decided whether or not we want a reader. And first of all, I want to know what the reader's place in the novel is. I try to follow very carefully the Germans' distinction between the difficulty I found in Ulysses and the difficulty I ought to find in Light in August."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "7e86dac5-ec27-4a11-b483-a2ff8f697a7d"
+    },
+    {
+      "start_time": 1521,
+      "end_time": 1521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And as I said before, it seems to me to be a distinction without a difference. And somewhere or other, we've dropped the reader. And it seems to me the reader is an essential part of the novel. I'm quite prepared to say, very well, you write a novel for 50 million people, you write a novel for a million people, you write a novel a novel for 5,000 people. All I want to know is who is the audience? And the audience necessarily, if it's going to be limited, is going to be aristocratic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "31f03c4d-1ccc-4d7a-84fd-c1b137a6466a"
+    },
+    {
+      "start_time": 1557,
+      "end_time": 1557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I see no particular reason why it should be as limited as Mr. Lytle seems to imply. When we're talking about the popularity of the 19th century Victorian novel, we don't mean everybody read it. We mean that you had a highly educated middle class, all of whom were prepared to read novels. And you've got an entirely new public. I want to know where you draw the line. When you cut out this new public, what is the public you're addressing? Then I think it would be time to talk about writing for an aristocracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "3f51faa1-35cb-45ed-ba19-da7b6475f16f"
+    },
+    {
+      "start_time": 1594,
+      "end_time": 1594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " First of all, I want to see the audience defined. Again, I'm in precisely the same position in referring to Mr. Lytle's remarks on style. I fancy that he and I are all along the line in complete agreement, but that problem of style is one that's been worrying me. Obviously the style of certain modern novels is not the style of the 19th century novel, which you all think I lament too much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "d289a0c2-e5a8-4dc1-b9a3-fac124af62f1"
+    },
+    {
+      "start_time": 1627,
+      "end_time": 1627,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " But again, the question of the reader comes into the problem of style. The question is this as I see it. Is style a relationship as it used to be understood between the writer and the reader? In the work of Joyce and Faulkner, it seems to me that it's a relationship between the author and the object. And I feel once you do that, you start excluding the reader."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "018de69c-155c-4c6a-8676-03a67eaa84e3"
+    },
+    {
+      "start_time": 1663,
+      "end_time": 1663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I gave a couple of examples of it in class today. The fact that when Stephen Dedalus comes back home after having decided to repent-- when he opens the door there is this wild outburst of meaningless words which represents the upsurge of what Joyce would call the subconscious or the unconscious. Now that's all very well, but this is a relationship between Joyce and the event. It's not a relationship between him and the reader."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "a7223142-09f1-49a5-9b67-d4659e81ca22"
+    },
+    {
+      "start_time": 1695,
+      "end_time": 1695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The whole problem of the style of Ulysses is contained in this. It's getting closer and closer and closer to the object. We discussed last night Mr. Ellison's novel and the question of if you're describing a hallucinatory state, do you describe it in a hallucinatory prose as Joyce does? The moment you do, you seem to me to be transferring the emphasis of style. To me, style is manner, and manner implies the existence of an audience, the existence of a reader."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "f091cbaa-da42-4a88-b545-d3247fb92e9f"
+    },
+    {
+      "start_time": 1731,
+      "end_time": 1731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It's in literature what manners is in real life. It is the point at which the individual comes out and talks to his neighbor and presents himself to his neighbor in whatever aspect suits him. We know it's not a complete man. It's a pose, if you like, and it seems to me that we've lost this pose. I'd very much like to hear somebody discuss that problem which he also raised, and in which I think again he and I are very much in agreement. That is the relationship between metropolitan and rural art."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "3370bf50-8046-4b4f-b8bd-ef9077bbd014"
+    },
+    {
+      "start_time": 1777,
+      "end_time": 1777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " One of the things that most has impressed me in modern art is the modern French film. And in the novels of people like Marcel Ayme-- and again, I'm not speaking from flatterer in those novels of Monsieur Simenon which I admire so much-- it seems to me that there is something that's disappeared everywhere else in literature. That is the recognition of the other fellow, the thing that Magre has all the time. The recognition that there's the other man out there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "a567e32c-d7bf-4c01-8316-97240a3e6540"
+    },
+    {
+      "start_time": 1813,
+      "end_time": 1813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And it's characteristic of the French film that you get this-- this admiration for somebody who is doing a small, perhaps unimportant job, the delight in him as a character. It's in those two writers principally that I find the continuation of the attitude of respect for life which I find in 19th century literature. And I think that the real reason is that France has still remained a rural country-- very largely a rural country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "85b8d357-87f0-4143-b284-692d71e3b829"
+    },
+    {
+      "start_time": 1851,
+      "end_time": 1851,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And in effect, if you're writing about your own village, you can't get too dirty about the villagers. Because ultimately you have to live with them, and you have to recognize that they're going to come to your funeral anyhow. It's very important that you should have a good funeral. And I think that has been lost in metropolitan art. That sense-- what I call realism-- that the writer is the same sort of person as the person he's writing about."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "eb4a547e-e0ed-436f-99c8-42dbd741bc0f"
+    },
+    {
+      "start_time": 1886,
+      "end_time": 1886,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mr. Frohock?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "c9b1374a-b9c2-46ce-bcd1-590a1a8bbbdf"
+    },
+    {
+      "start_time": 1887,
+      "end_time": 1887,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Sorry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "W.M. Frohock"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "4dbe1df6-56bc-4357-bcf8-2f5ec207da7e"
+    },
+    {
+      "start_time": 1888,
+      "end_time": 1888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Anyone? Any questions from the-- yes, Mr. Simenon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "c1c2be4d-08c3-451d-81e1-ff9dabd1b208"
+    },
+    {
+      "start_time": 1891,
+      "end_time": 1891,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " INAUDIBLE. It's very short."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "George Simenon"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "874d178c-8d14-47f0-8eeb-45ca204b0b16"
+    },
+    {
+      "start_time": 1895,
+      "end_time": 1895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I think that the conclusion may be that it's no American novel, nor the the French novel or German novels, nor 18th century, 19th century novels. But maybe it's two kind of novels-- only the good and the bad. I think that is the only conclusion after all the discussion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "George Simenon"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "92e0bac8-def1-44b5-bb3a-d2bfc6a69e9d"
+    },
+    {
+      "start_time": 1918,
+      "end_time": 1918,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " APPLAUSE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        }
+      ],
+      "uuid": "465b8cc7-6a42-4c33-8905-12c397d32294"
+    }
+  ],
   "set": "Default",
   "event_id": "30f86c81-cb93-436a-9b14-8599257f4308",
   "source_id": "9582471a-8acc-42d1-b707-8105759ccfd7"
