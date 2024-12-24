@@ -13,14 +13,14 @@
       "caption_set": []
     },
     "4729e4fe-1e5c-4295-bbb7-3410edd06aa7": {
-      "label": "7.5_tape03",
+      "label": "7.5_tape04",
       "is_offline": true,
       "file_url": "",
       "duration": 120,
       "caption_set": []
     },
     "9582471a-8acc-42d1-b707-8105759ccfd7": {
-      "label": "7.5_tape04",
+      "label": "7.5_tape03",
       "is_offline": true,
       "file_url": "",
       "duration": 1200,
@@ -43,6 +43,6 @@
   ],
   "created_at": "2024-12-04T18:01:22.988Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-12-24T15:44:54.146Z",
+  "updated_at": "2024-12-24T16:20:26.979Z",
   "updated_by": "tanyaclement"
 }
