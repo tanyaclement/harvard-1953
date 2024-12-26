@@ -24,7 +24,8 @@
               "children": [
                 {
                   "text": "Evening",
-                  "italic": true
+                  "italic": true,
+                  "link": "https://tanyaclement.github.io/harvard-1953/events/august-3-1953-evening/"
                 }
               ]
             },
@@ -94,8 +95,13 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Afternoon ",
-                  "italic": true
+                  "text": "Afternoon",
+                  "italic": true,
+                  "link": "https://tanyaclement.github.io/harvard-1953/events/august-4-1953-afternoon/"
+                },
+                {
+                  "italic": true,
+                  "text": " "
                 }
               ]
             },
@@ -133,7 +139,8 @@
               "children": [
                 {
                   "italic": true,
-                  "text": "Evening"
+                  "text": "Evening",
+                  "link": "https://tanyaclement.github.io/harvard-1953/events/august-4-1953-evening/"
                 }
               ]
             },
@@ -195,7 +202,8 @@
               "children": [
                 {
                   "text": "Afternoon",
-                  "italic": true
+                  "italic": true,
+                  "link": "https://tanyaclement.github.io/harvard-1953/events/august-5-1953-afternoon/"
                 }
               ]
             },
@@ -233,7 +241,8 @@
               "children": [
                 {
                   "text": "Evening",
-                  "italic": true
+                  "italic": true,
+                  "link": "https://tanyaclement.github.io/harvard-1953/events/august-5-1953-evening/"
                 }
               ]
             },
@@ -271,6 +280,15 @@
                       "text": "Panel Discussion"
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Program and Speakers Index",
+                  "link": "https://tanyaclement.github.io/harvard-1953/tags/"
                 }
               ]
             }
@@ -329,8 +347,8 @@
   "created_at": "2024-11-21T19:32:33.938Z",
   "created_by": "tanyaclement",
   "title": "Harvard 1953 Summer School Conference on \"The Contemporary Novel\"",
-  "updated_at": "2024-12-23T19:08:09.849Z",
-  "updated_by": "ajolipa",
+  "updated_at": "2024-12-26T17:02:01.503Z",
+  "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
     "type": "home"
