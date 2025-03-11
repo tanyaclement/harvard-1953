@@ -3,7 +3,7 @@
     "5d28a16f-e062-4db4-8db2-b49e741e7e34": {
       "label": "10_tape03",
       "is_offline": true,
-      "duration": 1200
+      "duration": 0
     },
     "36ba99c2-7caa-4a1e-9364-067cdb6510dc": {
       "label": "10_tape04",
@@ -16,7 +16,7 @@
       "label": "10_tape05",
       "is_offline": true,
       "file_url": "",
-      "duration": 1200,
+      "duration": 0,
       "caption_set": []
     }
   },
@@ -36,6 +36,6 @@
   ],
   "created_at": "2024-12-04T18:01:22.988Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-12-17T21:51:45.723Z",
-  "updated_by": "tanyaclement"
+  "updated_at": "2025-03-11T17:37:54.883Z",
+  "updated_by": "absempere"
 }
