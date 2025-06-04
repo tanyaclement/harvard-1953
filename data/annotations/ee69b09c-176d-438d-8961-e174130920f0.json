@@ -95,7 +95,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ladies and gentlemen, what would you do at this point if you were in my place? Here are two men who obviously know their jobs. Simenon, author of 152 or 153-- he doesn't quite remember which-- full-length novels, not to count the [SPEAKING FRENCH] and so forth that he adds to that. And Ralph Ellison, who is 150 odd behind Mr. Simenon at the moment, but who has somewhere picked up an inordinate amount of knowledge of what he's at."
+              "text": "Ladies and gentlemen, what would you do at this point if you were in my place? Here are two men who obviously know their jobs. Simenon, author of 152 or 153-- he doesn't quite remember which-- full-length novels, not to count the "
+            },
+            {
+              "text": "nouvelle du court ",
+              "italic": true
+            },
+            {
+              "text": "[short story] and so forth that he adds to that. And Ralph Ellison, who is 150 odd behind Mr. Simenon at the moment, but who has somewhere picked up an inordinate amount of knowledge of what he's at."
             }
           ]
         }
