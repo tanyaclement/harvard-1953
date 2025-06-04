@@ -348,7 +348,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "And then, I hear Mr. Ellison a few moments later saying-- he didn't put it quite this way tonight, but he has written words that he could very well have said tonight. They had the same import. The negro was the gauge of the human condition in America, the human condition, [SPEAKING IN FRENCH]"
+              "text": "And then, I hear Mr. Ellison a few moments later saying-- he didn't put it quite this way tonight, but he has written words that he could very well have said tonight. They had the same import. The negro was the gauge of the human condition in America, the human condition, "
+            },
+            {
+              "text": "la condition humaine",
+              "italic": true
+            },
+            {
+              "text": ".\n\n\n\n"
             }
           ]
         }
