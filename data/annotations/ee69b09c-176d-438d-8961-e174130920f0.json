@@ -572,7 +572,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The American says the problem of the novel is American man. Oh, let's put that right. The American says, the problem of the American novel is man in America. The European says, the problem of the novel, the subject of the novel, is man, [NON-ENGLISH SPEECH]. I think that in that slight difference in words is the essential difference between the European and the American. And I don't think that, in spite of all that, the difference is terribly great."
+              "text": "The American says the problem of the novel is American man. Oh, let's put that right. The American says, the problem of the American novel is man in America. The European says, the problem of the novel, the subject of the novel, is man, "
+            },
+            {
+              "text": "l’homme tout court",
+              "italic": true
+            },
+            {
+              "text": ". I think that in that slight difference in words is the essential difference between the European and the American. And I don't think that, in spite of all that, the difference is terribly great."
             }
           ]
         }
