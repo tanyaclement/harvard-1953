@@ -319,7 +319,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Now, so far as I know, monsieur Simenon has not written books about art. So incoherent that it takes months of the most patient effort to read them, I say he has not written-- please understand me-- that kind of book, which turned out finally to be a poem about man. But certainly, he is saying, somewhere or other, that the essential concern of the novelist is [SPEAKING IN FRENCH], as it has been for Sartre, for Camus, for so many who have realized that man in Europe and in the world, but they think especially of Europe, that man has come to desperate straits indeed."
+              "text": "Now, so far as I know, monsieur Simenon has not written books about art. So incoherent that it takes months of the most patient effort to read them, I say he has not written-- please understand me-- that kind of book, which turned out finally to be a poem about man. But certainly, he is saying, somewhere or other, that the essential concern of the novelist is "
+            },
+            {
+              "text": "la condition humaine ",
+              "italic": true
+            },
+            {
+              "text": "[the human condition] as it has been for Sartre, for Camus, for so many who have realized that man in Europe and in the world, but they think especially of Europe, that man has come to desperate straits indeed."
             }
           ]
         }
