@@ -276,7 +276,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The capital H on the word \"Homme\" has become absolutely standard equipment in these last years in Europe. It stands for a new humanism, a humanism that was already visible in Malraux as early as 1931 when he replied to Leon Trotsky regarding the first of his novels, The Conquerors. And he said, I am not. I have not been trying to paint a picture of a revolution. I have been trying to gauge the human condition. Another book he called-- Malraux called The Human Condition. And even his books on art turn out finally to be a poem about man."
+              "text": "The capital H on the word \"Homme\" has become absolutely standard equipment in these last years in Europe. It stands for a new humanism, a humanism that was already visible in Malraux as early as 1931 when he replied to Leon Trotsky regarding the first of his novels, "
+            },
+            {
+              "text": "The Conquerors",
+              "italic": true
+            },
+            {
+              "text": ". And he said, I am not. I have not been trying to paint a picture of a revolution. I have been trying to gauge the human condition. Another book he called-- Malraux called "
+            },
+            {
+              "text": "The Human Condition",
+              "italic": true
+            },
+            {
+              "text": ". And even his books on art turn out finally to be a poem about man."
             }
           ]
         }
