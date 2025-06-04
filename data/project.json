@@ -1,1 +1,202 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[],"project":{"github_org":"tanyaclement","is_private":false,"title":"Harvard 1953 Summer Conference on \"The Contemporary Novel\"","description":"This is a draft project for Tanya Clement's Harvard 1953 Summer Conference on \"The Contemporary Novel\" project.","language":"en","slug":"harvard-1953","creator":"tanyaclement","authors":"Tanya Clement, editor","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[{"login_name":"ajolipa","avatar_url":"https://avatars.githubusercontent.com/u/110847635?v=4","admin":false}],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"},{"color":"#88C9F2","category":"Speaker"},{"color":"#ADFFD9","category":"Program"},{"color":"#FCB55F","category":"Title"}],"tags":[{"category":"Speaker","tag":"William Yandell Elliott"},{"category":"Speaker","tag":"Carvel Collins"},{"category":"Speaker","tag":"Stanley Hyman"},{"category":"Speaker","tag":"Frank O'Connor"},{"category":"Speaker","tag":"W.M. Frohock"},{"category":"Program","tag":"Introductory Remarks"},{"category":"Speaker","tag":"Audience"},{"category":"Program","tag":"Lecture"},{"category":"Program","tag":"Response to Hyman and O'Connor"},{"category":"Program","tag":"Response"},{"category":"Program","tag":"Announcement"},{"category":"Speaker","tag":"Anthony West"},{"category":"Program","tag":"Panel Discusson"},{"category":"Speaker","tag":"WGBH Radio Announcer"},{"category":"Program","tag":"W.M. Frohock Lecture"},{"category":"Program","tag":"Session Discussion"},{"category":"Speaker","tag":"Andrew Lytle"},{"category":"Speaker","tag":"Ralph Ellison"},{"category":"Speaker","tag":"Panelists"},{"category":"Speaker","tag":"Harold Humes"},{"category":"Speaker","tag":"Alan Campbell"},{"category":"Program","tag":"Panel Discussion"},{"category":"Program","tag":"Response to Simenon and Ellison"},{"category":"Program","tag":"WGBH Radio Announcement"},{"category":"Title","tag":"New Trends in the Contemporary Novel"},{"category":"Title","tag":"The Modern Novel"},{"category":"Title","tag":"Certain Neglected Aspects of the American Novel"},{"category":"Title","tag":"The Era of the Novel"},{"category":"Program","tag":"Hans Egon Holthusen Lecture"},{"category":"Speaker","tag":"Hans Egon Holthusen"},{"category":"Speaker","tag":"William Sloane"},{"category":"Program","tag":"Introdutory Remarks"},{"category":"Speaker","tag":"Hilda Livingston"},{"category":"Title","tag":"Paperback Books and the Writer"},{"category":"Title","tag":"The Editor and The Author"},{"category":"Program","tag":"Panel Dicussion"},{"category":"Speaker","tag":"Georges Simenon"}]},"created_at":"2024-11-21T19:32:33.936Z","updated_at":"2025-05-21T20:27:59.297Z","generate_pages_site":true},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [],
+  "project": {
+    "github_org": "tanyaclement",
+    "is_private": false,
+    "title": "Harvard 1953 Summer Conference on \"The Contemporary Novel\"",
+    "description": "This is a draft project for Tanya Clement's Harvard 1953 Summer Conference on \"The Contemporary Novel\" project.",
+    "language": "en",
+    "slug": "harvard-1953",
+    "creator": "tanyaclement",
+    "authors": "Tanya Clement, editor",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "ajolipa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/110847635?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        },
+        {
+          "color": "#88C9F2",
+          "category": "Speaker"
+        },
+        {
+          "color": "#ADFFD9",
+          "category": "Program"
+        },
+        {
+          "color": "#FCB55F",
+          "category": "Title"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "William Yandell Elliott"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Carvel Collins"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Stanley Hyman"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Frank O'Connor"
+        },
+        {
+          "category": "Speaker",
+          "tag": "W.M. Frohock"
+        },
+        {
+          "category": "Program",
+          "tag": "Introductory Remarks"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        },
+        {
+          "category": "Program",
+          "tag": "Lecture"
+        },
+        {
+          "category": "Program",
+          "tag": "Response to Hyman and O'Connor"
+        },
+        {
+          "category": "Program",
+          "tag": "Response"
+        },
+        {
+          "category": "Program",
+          "tag": "Announcement"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Anthony West"
+        },
+        {
+          "category": "Program",
+          "tag": "Panel Discusson"
+        },
+        {
+          "category": "Speaker",
+          "tag": "WGBH Radio Announcer"
+        },
+        {
+          "category": "Program",
+          "tag": "W.M. Frohock Lecture"
+        },
+        {
+          "category": "Program",
+          "tag": "Session Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Andrew Lytle"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Ralph Ellison"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Panelists"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Harold Humes"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Alan Campbell"
+        },
+        {
+          "category": "Program",
+          "tag": "Panel Discussion"
+        },
+        {
+          "category": "Program",
+          "tag": "Response to Simenon and Ellison"
+        },
+        {
+          "category": "Program",
+          "tag": "WGBH Radio Announcement"
+        },
+        {
+          "category": "Title",
+          "tag": "New Trends in the Contemporary Novel"
+        },
+        {
+          "category": "Title",
+          "tag": "The Modern Novel"
+        },
+        {
+          "category": "Title",
+          "tag": "Certain Neglected Aspects of the American Novel"
+        },
+        {
+          "category": "Title",
+          "tag": "The Era of the Novel"
+        },
+        {
+          "category": "Program",
+          "tag": "Hans Egon Holthusen Lecture"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Hans Egon Holthusen"
+        },
+        {
+          "category": "Speaker",
+          "tag": "William Sloane"
+        },
+        {
+          "category": "Program",
+          "tag": "Introdutory Remarks"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Hilda Livingston"
+        },
+        {
+          "category": "Title",
+          "tag": "Paperback Books and the Writer"
+        },
+        {
+          "category": "Title",
+          "tag": "The Editor and The Author"
+        },
+        {
+          "category": "Program",
+          "tag": "Panel Dicussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Georges Simenon"
+        }
+      ]
+    },
+    "created_at": "2024-11-21T19:32:33.936Z",
+    "updated_at": "2025-06-04T12:15:00.041Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
