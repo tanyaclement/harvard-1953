@@ -391,7 +391,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "And in another place in that same writing, he speaks about the truth, the truth regarding the human condition. And I found him saying tonight, man can live in chaos but not accept it, words, which, in the French, appear in the mouth of Gavin, one of my Malraux's heroes in the novel called The Conquerors. These people all speak the same language. Although, they speak it from different vantage points and different angles."
+              "text": "And in another place in that same writing, he speaks about the truth, the truth regarding the human condition. And I found him saying tonight, man can live in chaos but not accept it, words, which, in the French, appear in the mouth of Gavin, one of my Malraux's heroes in the novel called "
+            },
+            {
+              "text": "The Conquerors",
+              "italic": true
+            },
+            {
+              "text": ". These people all speak the same language. Although, they speak it from different vantage points and different angles."
             }
           ]
         }
