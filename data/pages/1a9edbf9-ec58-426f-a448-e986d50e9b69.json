@@ -1,0 +1,72 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "0c4d1b51-6210-4867-a599-c6dfaf229836",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 18,
+      "end": 350,
+      "file": "955061a8-101e-49ef-a443-712f450a82e5",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "0c4d1b51-6210-4867-a599-c6dfaf229836",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 18,
+      "end": 350,
+      "file": "955061a8-101e-49ef-a443-712f450a82e5",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Introduction to Carvel Collins, William Yandell Elliot",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "introduction-to-carvel-collins-william-yande",
+  "created_at": "2025-06-10T13:39:04.645Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-06-10T13:39:04.646Z",
+  "updated_by": "tanyaclement"
+}
