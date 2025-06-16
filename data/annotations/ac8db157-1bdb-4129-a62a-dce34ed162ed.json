@@ -1391,7 +1391,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "And we have heard quoted very often, Mr. Hyman referred to it last night,  Hemingway's statement that when you read Huckleberry Finn, which he considers the fountainhead of modern American prose fiction, you must stop at that point where N-- Jim is stolen from the boys, because after that, Twain indulged himself in fakery.    "
+              "text": "And we have heard quoted very often, Mr. Hyman referred to it last night,  Hemingway's statement that when you read "
+            },
+            {
+              "text": "Huckleberry Finn",
+              "italic": true
+            },
+            {
+              "text": ", which he considers the fountainhead of modern American prose fiction, you must stop at that point where N-- Jim is stolen from the boys, because after that, Twain indulged himself in fakery.    "
             }
           ]
         }
