@@ -1355,7 +1355,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "I'm sorry, aside from the concern with language, with the art of fiction, with depiction and so forth, you have this great moral concern. Now, the man who made Huckleberry Finn an important -- well, he didn't make it important but he made us aware of its importance for twentieth century American writing--was Ernest Hemingway. "
+              "text": "I'm sorry -- aside from the concern with language, with the art of fiction, with depiction and so forth, you have this great moral concern. Now, the man who made "
+            },
+            {
+              "text": "Huckleberry Finn",
+              "italic": true
+            },
+            {
+              "text": " an important -- well, he didn't make it important but he made us aware of its importance for twentieth century American writing--was Ernest Hemingway. "
             }
           ]
         }
