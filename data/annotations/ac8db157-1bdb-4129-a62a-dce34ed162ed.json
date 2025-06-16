@@ -1061,7 +1061,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Huckleberry Finn, of course, is , uh, has been, and was for years considered a child's book, a boy's book. Actually it's one of the greatest of American novels and a moral drama and again we find it dealing with the problem of democracy, what is good about it, what is bad about it, where have we failed in living up to the American dream, where have we failed to live up to the ideals of democracy."
+              "text": "Huckleberry Finn",
+              "italic": true
+            },
+            {
+              "text": ", of course, is , uh, has been, and was for years considered a child's book, a boy's book. Actually, it's one of the greatest of American novels and a moral drama, and again, we find it dealing with the problem of democracy, what is good about it, what is bad about it, where have we failed in living up to the American dream, where have we failed to live up to the ideals of democracy."
             }
           ]
         }
