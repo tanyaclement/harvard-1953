@@ -1492,7 +1492,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Chaos, terror, all of these line up behind the figure, the symbol of Jim. Hemingway could not understand that this was a necessary completion of the action. He was ready to truncate it and many people have done so. They have failed to see that connection and thus Huckleberry Finn lost, for many years, its meaning."
+              "text": "Chaos, terror, all of these line up behind the figure, the symbol of Jim. Hemingway could not understand that this was a necessary completion of the action. He was ready to truncate it, and many people have done so. They have failed to see that connection and thus, "
+            },
+            {
+              "text": "Huckleberry Finn",
+              "italic": true
+            },
+            {
+              "text": " lost, for many years, its meaning."
             }
           ]
         }
