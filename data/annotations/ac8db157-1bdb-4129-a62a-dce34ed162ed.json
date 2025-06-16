@@ -1456,7 +1456,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Hemingway could not see the implication of that part of the plot which gives Huckleberry Finn its meaning, unless we accept it as a boy story. If Huck and Tom Sawyer had not made the effort, at least, to steal Jim free again, and it's important that they steal him free, that they be involved in guilt, in crime, in darkness, since it's a dark man. "
+              "text": "Hemingway could not see the implication of that part of the plot which gives "
+            },
+            {
+              "text": "Huckleberry Finn",
+              "italic": true
+            },
+            {
+              "text": " its meaning, unless we accept it as a boy's story. If Huck and Tom Sawyer had not made the effort, at least, to steal Jim free again, and it's important that they steal him free, that they be involved in guilt, in crime, in darkness, since it's a dark man. "
             }
           ]
         }
