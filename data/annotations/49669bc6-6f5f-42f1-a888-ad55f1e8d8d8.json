@@ -87,7 +87,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "APPLAUSE"
+              "text": "[APPLAUSE]"
             }
           ]
         }
@@ -99,7 +99,11 @@
         },
         {
           "category": "Program",
-          "tag": "Session Discussion"
+          "tag": "W.M. Frohock Lecture"
+        },
+        {
+          "category": "Program",
+          "tag": "Lecture"
         }
       ],
       "uuid": "a86a4e40-c583-461d-a32d-c3c84b4c26ce"
