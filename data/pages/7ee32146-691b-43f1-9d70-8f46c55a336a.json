@@ -1,0 +1,69 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "1b3529b2-b4e6-4961-a21c-166ba235d306",
+      "includes": [
+        "annotations"
+      ],
+      "start": 542,
+      "end": 3148,
+      "file": "5d28a16f-e062-4db4-8db2-b49e741e7e34",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "1b3529b2-b4e6-4961-a21c-166ba235d306",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "end": 207,
+      "file": "36ba99c2-7caa-4a1e-9364-067cdb6510dc",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "\"The Era of the Novel?\" Georges Simenon",
+  "parent": "67bc48d7-a712-431b-8663-b3680ad11adf",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-era-of-the-novel-georges-simenon",
+  "created_at": "2025-06-19T22:54:04.772Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-06-19T22:54:04.772Z",
+  "updated_by": "tanyaclement"
+}
