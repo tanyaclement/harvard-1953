@@ -49,7 +49,11 @@
         },
         {
           "category": "Program",
-          "tag": "Session Discussion"
+          "tag": "Lecture"
+        },
+        {
+          "category": "Program",
+          "tag": "W.M. Frohock Lecture"
         }
       ],
       "uuid": "606cb3c8-452b-40f6-bd43-2361ed7a3190"
