@@ -9,48 +9,6 @@
       ]
     },
     {
-      "uuid": "0c4d1b51-6210-4867-a599-c6dfaf229836",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "start": 18,
-      "end": 350,
-      "file": "955061a8-101e-49ef-a443-712f450a82e5",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "uuid": "0c4d1b51-6210-4867-a599-c6dfaf229836",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "start": 18,
-      "end": 350,
-      "file": "955061a8-101e-49ef-a443-712f450a82e5",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "uuid": "94f13ccd-38e8-4b04-a71b-0d6af82c82aa",
       "includes": [
         "annotations"
@@ -58,6 +16,7 @@
       "start": 10,
       "end": 350,
       "file": "1237a987-b918-4e53-87bc-fc18327ab1cf",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -89,7 +48,7 @@
   "slug": "introductory-remarks-william-yandell-elliot",
   "created_at": "2025-06-10T13:39:04.645Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-06-19T17:14:16.615Z",
+  "updated_at": "2025-06-19T17:16:16.507Z",
   "updated_by": "tanyaclement",
   "parent": "9acc1bdf-d3e6-4d49-b201-0ee69470a6ee"
 }
