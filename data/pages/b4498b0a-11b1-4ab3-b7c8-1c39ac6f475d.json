@@ -127,7 +127,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Introductory remarks, Carvel Collins"
+                      "text": "Introductory remarks",
+                      "link": "https://tanyaclement.github.io/harvard-1953/pages/introductory-remarks-carvel-collins/"
+                    },
+                    {
+                      "text": ", Carvel Collins"
                     }
                   ]
                 },
@@ -135,7 +139,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Lecture, W. M. Frohock"
+                      "text": "Lecture",
+                      "link": "https://tanyaclement.github.io/harvard-1953/pages/lecture-w-m-frohock/"
+                    },
+                    {
+                      "text": ", W. M. Frohock"
                     }
                   ]
                 },
@@ -143,7 +151,8 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Session Discussion"
+                      "text": "Session Discussion",
+                      "link": "https://tanyaclement.github.io/harvard-1953/pages/session-discussion-4-august-1953/"
                     }
                   ]
                 }
@@ -362,7 +371,7 @@
   "created_at": "2024-11-21T19:32:33.938Z",
   "created_by": "tanyaclement",
   "title": "Harvard 1953 Summer School Conference on \"The Contemporary Novel\"",
-  "updated_at": "2025-06-19T22:24:20.871Z",
+  "updated_at": "2025-06-19T22:38:25.816Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
