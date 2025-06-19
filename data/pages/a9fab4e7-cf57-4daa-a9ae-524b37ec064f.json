@@ -1,0 +1,46 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "94f13ccd-38e8-4b04-a71b-0d6af82c82aa",
+      "includes": [
+        "annotations"
+      ],
+      "start": 3429,
+      "end": 3824,
+      "file": "a9c0b741-c3a7-4b13-9ea7-06b801b3bf15",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Panel Discussion",
+  "parent": "9acc1bdf-d3e6-4d49-b201-0ee69470a6ee",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "panel-discussion",
+  "created_at": "2025-06-19T17:52:46.785Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-06-19T17:52:46.785Z",
+  "updated_by": "tanyaclement"
+}
