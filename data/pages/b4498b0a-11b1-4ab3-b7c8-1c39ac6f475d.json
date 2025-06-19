@@ -36,11 +36,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Introduction to Carvel Collins",
-                      "link": "https://tanyaclement.github.io/harvard-1953/pages/introduction-to-carvel-collins-william-yande/"
+                      "text": "Introductory remarks",
+                      "link": "https://tanyaclement.github.io/harvard-1953/pages/introductory-remarks-william-yandell-elliot/"
                     },
                     {
-                      "text": ", William Yandell Elliot "
+                      "text": ", William Yandell Elliot and Carvel Collins"
                     }
                   ]
                 },
@@ -48,7 +48,14 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Conference Opening Remarks, Carvel Collins"
+                      "text": "\""
+                    },
+                    {
+                      "text": "New Trends in the Contemporary Novel,",
+                      "link": "https://tanyaclement.github.io/harvard-1953/pages/new-trends-in-the-contemporary-novel-stanl/"
+                    },
+                    {
+                      "text": "\" Stanley Hyman"
                     }
                   ]
                 },
@@ -56,7 +63,14 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "\"New Trends in the Contemporary Novel,\" Stanley Hyman"
+                      "text": "\""
+                    },
+                    {
+                      "text": "The Modern Novel,",
+                      "link": "https://tanyaclement.github.io/harvard-1953/pages/the-modern-novel-frank-oconnor/"
+                    },
+                    {
+                      "text": "\" Frank O'Connor"
                     }
                   ]
                 },
@@ -64,7 +78,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "\"The Modern Novel,\" Frank O'Connor"
+                      "text": "Response to Hyman and O'Connor,",
+                      "link": "https://tanyaclement.github.io/harvard-1953/pages/response-to-hyman-and-oconnor-anthony-west/"
+                    },
+                    {
+                      "text": " Anthony West"
                     }
                   ]
                 },
@@ -72,15 +90,8 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Response to Hyman and O'Connor, Anthony West"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Panel Discussion"
+                      "text": "Panel Discussion",
+                      "link": "https://tanyaclement.github.io/harvard-1953/pages/panel-discussion/"
                     }
                   ]
                 }
@@ -351,7 +362,7 @@
   "created_at": "2024-11-21T19:32:33.938Z",
   "created_by": "tanyaclement",
   "title": "Harvard 1953 Summer School Conference on \"The Contemporary Novel\"",
-  "updated_at": "2025-06-10T14:20:13.725Z",
+  "updated_at": "2025-06-19T18:07:00.522Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
