@@ -1,0 +1,46 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "1b3529b2-b4e6-4961-a21c-166ba235d306",
+      "includes": [
+        "annotations"
+      ],
+      "start": 0,
+      "end": 541,
+      "file": "5d28a16f-e062-4db4-8db2-b49e741e7e34",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Introductory Remarks, Carvel Collins",
+  "parent": "67bc48d7-a712-431b-8663-b3680ad11adf",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "introductory-remarks-carvel-collins-2",
+  "created_at": "2025-06-19T22:49:32.681Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-06-19T22:49:32.681Z",
+  "updated_by": "tanyaclement"
+}
