@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "1b3529b2-b4e6-4961-a21c-166ba235d306",
+      "includes": [
+        "annotations"
+      ],
+      "end": 1791,
+      "file": "5957f27a-9162-4f10-9003-cc821cb440a3",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Response to Simenon and Ellison, W.M. Frohock",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "response-to-simenon-and-ellison-wm-frohock",
+  "created_at": "2025-06-19T22:56:55.740Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-06-19T22:56:55.740Z",
+  "updated_by": "tanyaclement"
+}
