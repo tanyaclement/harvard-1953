@@ -1,0 +1,48 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "94f13ccd-38e8-4b04-a71b-0d6af82c82aa",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 351,
+      "end": 2450,
+      "file": "1237a987-b918-4e53-87bc-fc18327ab1cf",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "\"New Trends in the Contemporary Novel,\" Stanley Hyman",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "new-trends-in-the-contemporary-novel-stanl",
+  "created_at": "2025-06-19T16:51:49.324Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-06-19T16:51:49.324Z",
+  "updated_by": "tanyaclement"
+}
