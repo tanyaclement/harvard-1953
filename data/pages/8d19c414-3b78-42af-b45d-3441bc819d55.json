@@ -1,0 +1,46 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "30f86c81-cb93-436a-9b14-8599257f4308",
+      "includes": [
+        "annotations"
+      ],
+      "start": 1619,
+      "end": 2055,
+      "file": "13b9f20e-1845-4c6a-8d87-71ccfafac0cd",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Session Discussion, 5 August 1953",
+  "parent": "6c18fcff-b90a-4a44-af08-9bce775d1081",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "session-discussion-5-august-1953",
+  "created_at": "2025-06-21T17:24:58.629Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-06-21T17:24:58.629Z",
+  "updated_by": "tanyaclement"
+}
