@@ -1,0 +1,46 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "b6b2e2a4-8edc-4d1e-9768-478fcda4a183",
+      "includes": [
+        "annotations"
+      ],
+      "start": 1658,
+      "end": 3267,
+      "file": "d5ea7279-64d9-451b-a1b5-63bac86adf8c",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "\"The Editor and The Author,\" William Sloane",
+  "parent": "617a23b3-01e8-40e8-8e3e-d4f2084006f9",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-editor-and-the-author-william-sloane",
+  "created_at": "2025-06-21T17:55:29.209Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-06-21T17:55:29.209Z",
+  "updated_by": "tanyaclement"
+}
