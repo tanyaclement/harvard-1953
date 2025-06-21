@@ -253,7 +253,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Introductory Remarks, Carvel Collins"
+                      "text": "Introductory Remarks",
+                      "link": "https://tanyaclement.github.io/harvard-1953/pages/introductory-remarks-carvel-collins-2-3/"
+                    },
+                    {
+                      "text": ", Carvel Collins"
                     }
                   ]
                 },
@@ -261,7 +265,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Lecture, Hans Egon Holthusen"
+                      "text": "Lecture",
+                      "link": "https://tanyaclement.github.io/harvard-1953/pages/lecture-hans-egon-holthusen/"
+                    },
+                    {
+                      "text": ", Hans Egon Holthusen"
                     }
                   ]
                 },
@@ -269,7 +277,8 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Session Discussion"
+                      "text": "Session Discussion",
+                      "link": "https://tanyaclement.github.io/harvard-1953/pages/session-discussion-5-august-1953/"
                     }
                   ]
                 }
@@ -386,7 +395,7 @@
   "created_at": "2024-11-21T19:32:33.938Z",
   "created_by": "tanyaclement",
   "title": "Harvard 1953 Summer School Conference on \"The Contemporary Novel\"",
-  "updated_at": "2025-06-19T23:16:54.035Z",
+  "updated_at": "2025-06-21T17:46:10.393Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
