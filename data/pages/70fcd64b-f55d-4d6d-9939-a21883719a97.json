@@ -1,0 +1,46 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "b6b2e2a4-8edc-4d1e-9768-478fcda4a183",
+      "includes": [
+        "annotations"
+      ],
+      "start": 64,
+      "end": 1657,
+      "file": "d5ea7279-64d9-451b-a1b5-63bac86adf8c",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "\"Paperback Books and the Writer,\" Hilda Livingston",
+  "parent": "617a23b3-01e8-40e8-8e3e-d4f2084006f9",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "paperback-books-and-the-writer-hilda-livin",
+  "created_at": "2025-06-21T17:52:42.667Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-06-21T17:52:42.667Z",
+  "updated_by": "tanyaclement"
+}
