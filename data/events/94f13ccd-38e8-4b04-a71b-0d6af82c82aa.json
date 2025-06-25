@@ -2,14 +2,15 @@
   "audiovisual_files": {
     "1237a987-b918-4e53-87bc-fc18327ab1cf": {
       "label": "10_tape01",
-      "is_offline": true,
-      "duration": 120
+      "is_offline": false,
+      "duration": 3204,
+      "file_url": "https://ia800904.us.archive.org/8/items/99156329279403941-tape-02-dm-01-01-840-ea-4-c-3-6-d-7-b-4248-aedd-364-c-0-ef-5-e-427/99156329279403941_tape01_DM_01_01_%7B3B4EF33E-144F-447B-A616-2432D1B1106F%7D.mp3"
     },
     "a9c0b741-c3a7-4b13-9ea7-06b801b3bf15": {
       "label": "10_tape02",
-      "is_offline": true,
-      "file_url": "",
-      "duration": 1200,
+      "is_offline": false,
+      "file_url": "https://dn721906.ca.archive.org/0/items/99156329279403941-tape-02-dm-01-01-840-ea-4-c-3-6-d-7-b-4248-aedd-364-c-0-ef-5-e-427/99156329279403941_tape02_DM_01_01_%7B840EA4C3-6D7B-4248-AEDD-364C0EF5E427%7D.mp3",
+      "duration": 3824,
       "caption_set": []
     }
   },
@@ -29,7 +30,7 @@
   ],
   "created_at": "2024-12-04T18:01:22.988Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-06-19T17:42:58.276Z",
+  "updated_at": "2025-06-25T21:23:24.425Z",
   "updated_by": "tanyaclement",
   "av_file_order": [
     "1237a987-b918-4e53-87bc-fc18327ab1cf",
