@@ -2,28 +2,29 @@
   "audiovisual_files": {
     "13b9f20e-1845-4c6a-8d87-71ccfafac0cd": {
       "label": "7.5_tape01",
-      "is_offline": true,
-      "duration": 120
+      "is_offline": false,
+      "duration": 1980,
+      "file_url": "https://dn720700.ca.archive.org/0/items/990016954060203941-tape-05/990016954060203941_tape01.mp3"
     },
     "401d5a76-06d5-45dc-bf47-b8f2a7e437d4": {
       "label": "7.5_tape02",
-      "is_offline": true,
-      "file_url": "",
-      "duration": 120,
+      "is_offline": false,
+      "file_url": "https://dn720700.ca.archive.org/0/items/990016954060203941-tape-05/990016954060203941_tape02.mp3",
+      "duration": 1922,
       "caption_set": []
     },
     "9582471a-8acc-42d1-b707-8105759ccfd7": {
       "label": "7.5_tape03",
-      "is_offline": true,
-      "file_url": "",
-      "duration": 1200,
+      "is_offline": false,
+      "file_url": "https://dn720700.ca.archive.org/0/items/990016954060203941-tape-05/990016954060203941_tape03.mp3",
+      "duration": 1954,
       "caption_set": []
     },
     "4729e4fe-1e5c-4295-bbb7-3410edd06aa7": {
       "label": "7.5_tape04",
-      "is_offline": true,
-      "file_url": "",
-      "duration": 120,
+      "is_offline": false,
+      "file_url": "https://ia600904.us.archive.org/35/items/990016954060203941-tape-05/990016954060203941_tape04.mp3",
+      "duration": 328,
       "caption_set": []
     }
   },
@@ -43,6 +44,12 @@
   ],
   "created_at": "2024-12-04T18:01:22.988Z",
   "created_by": "tanyaclement",
-  "updated_at": "2024-12-24T16:47:29.956Z",
-  "updated_by": "tanyaclement"
+  "updated_at": "2025-06-25T21:32:29.375Z",
+  "updated_by": "tanyaclement",
+  "av_file_order": [
+    "13b9f20e-1845-4c6a-8d87-71ccfafac0cd",
+    "401d5a76-06d5-45dc-bf47-b8f2a7e437d4",
+    "9582471a-8acc-42d1-b707-8105759ccfd7",
+    "4729e4fe-1e5c-4295-bbb7-3410edd06aa7"
+  ]
 }
