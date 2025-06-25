@@ -2,8 +2,9 @@
   "audiovisual_files": {
     "5d28a16f-e062-4db4-8db2-b49e741e7e34": {
       "label": "10_tape03",
-      "is_offline": true,
-      "duration": 0
+      "is_offline": false,
+      "duration": 3147,
+      "file_url": "https://ia800904.us.archive.org/8/items/99156329279403941-tape-02-dm-01-01-840-ea-4-c-3-6-d-7-b-4248-aedd-364-c-0-ef-5-e-427/99156329279403941_tape03_DM_01_01_%7B04CE6773-E067-4A29-8CBF-6AB0CA26C3E5%7D.mp3"
     },
     "36ba99c2-7caa-4a1e-9364-067cdb6510dc": {
       "label": "10_tape04",
@@ -14,9 +15,9 @@
     },
     "5957f27a-9162-4f10-9003-cc821cb440a3": {
       "label": "10_tape05",
-      "is_offline": true,
-      "file_url": "",
-      "duration": 0,
+      "is_offline": false,
+      "file_url": "https://ia800904.us.archive.org/8/items/99156329279403941-tape-02-dm-01-01-840-ea-4-c-3-6-d-7-b-4248-aedd-364-c-0-ef-5-e-427/99156329279403941_tape05_DM_01_01_%7B1B192A5A-A565-4D5D-9FFC-B4BF38BE6D6F%7D.mp3",
+      "duration": 1791,
       "caption_set": []
     }
   },
@@ -36,6 +37,12 @@
   ],
   "created_at": "2024-12-04T18:01:22.988Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-03-22T22:54:02.349Z",
-  "updated_by": "tanyaclement"
+  "updated_at": "2025-06-25T20:14:56.725Z",
+  "updated_by": "tanyaclement",
+  "av_file_order": [
+    "5d28a16f-e062-4db4-8db2-b49e741e7e34",
+    "36ba99c2-7caa-4a1e-9364-067cdb6510dc",
+    "5957f27a-9162-4f10-9003-cc821cb440a3"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/"
 }
