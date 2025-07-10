@@ -9,6 +9,22 @@
       ]
     },
     {
+      "uuid": "94f13ccd-38e8-4b04-a71b-0d6af82c82aa",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 2451,
+      "end": 3204,
+      "file": "1237a987-b918-4e53-87bc-fc18327ab1cf",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -17,14 +33,13 @@
       ]
     },
     {
-      "uuid": "0c4d1b51-6210-4867-a599-c6dfaf229836",
+      "uuid": "94f13ccd-38e8-4b04-a71b-0d6af82c82aa",
       "includes": [
         "media",
         "annotations"
       ],
-      "start": 2451,
-      "end": 3204,
-      "file": "955061a8-101e-49ef-a443-712f450a82e5",
+      "end": 1362,
+      "file": "a9c0b741-c3a7-4b13-9ea7-06b801b3bf15",
       "type": "event",
       "children": [
         {
@@ -50,6 +65,6 @@
   "slug": "the-modern-novel-frank-oconnor",
   "created_at": "2025-06-19T17:21:56.542Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-07-10T16:05:08.400Z",
+  "updated_at": "2025-07-10T16:10:14.514Z",
   "updated_by": "tanyaclement"
 }
