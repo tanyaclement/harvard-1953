@@ -14,8 +14,20 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "August 3, 1953",
-                  "bold": true
+                  "text": "Introduction",
+                  "bold": true,
+                  "textSize": "heading-two",
+                  "link": "https://tanyaclement.github.io/harvard-1953/pages/introduction/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "textSize": "heading-two",
+                  "text": "August 3, 1953"
                 }
               ]
             },
@@ -102,7 +114,8 @@
               "children": [
                 {
                   "text": "August 4, 1953",
-                  "bold": true
+                  "bold": true,
+                  "textSize": "heading-two"
                 }
               ]
             },
@@ -232,7 +245,8 @@
               "children": [
                 {
                   "text": "August 5, 1953",
-                  "bold": true
+                  "bold": true,
+                  "textSize": "heading-two"
                 }
               ]
             },
@@ -355,7 +369,8 @@
               "children": [
                 {
                   "text": "Program and Speakers Index",
-                  "link": "https://tanyaclement.github.io/harvard-1953/tags/"
+                  "link": "https://tanyaclement.github.io/harvard-1953/tags/",
+                  "textSize": "heading-two"
                 }
               ]
             }
@@ -414,7 +429,7 @@
   "created_at": "2024-11-21T19:32:33.938Z",
   "created_by": "tanyaclement",
   "title": "Harvard 1953 Summer School Conference on \"The Contemporary Novel\"",
-  "updated_at": "2025-06-21T19:59:19.932Z",
+  "updated_at": "2025-07-11T09:53:41.834Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
