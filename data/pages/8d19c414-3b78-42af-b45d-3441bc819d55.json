@@ -11,11 +11,81 @@
     {
       "uuid": "30f86c81-cb93-436a-9b14-8599257f4308",
       "includes": [
-        "annotations"
+        "annotations",
+        "media"
       ],
       "start": 1619,
       "end": 2055,
       "file": "13b9f20e-1845-4c6a-8d87-71ccfafac0cd",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "30f86c81-cb93-436a-9b14-8599257f4308",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "end": 1922,
+      "file": "401d5a76-06d5-45dc-bf47-b8f2a7e437d4",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "30f86c81-cb93-436a-9b14-8599257f4308",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "end": 1954,
+      "file": "9582471a-8acc-42d1-b707-8105759ccfd7",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "30f86c81-cb93-436a-9b14-8599257f4308",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "end": 329,
+      "file": "4729e4fe-1e5c-4295-bbb7-3410edd06aa7",
       "type": "event",
       "children": [
         {
@@ -41,6 +111,6 @@
   "slug": "session-discussion-5-august-1953",
   "created_at": "2025-06-21T17:24:58.629Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-06-21T17:24:58.629Z",
+  "updated_at": "2025-07-11T09:27:22.536Z",
   "updated_by": "tanyaclement"
 }
